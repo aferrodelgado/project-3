@@ -7,7 +7,7 @@
 - **Datasets:**
   - [1.3M Linkedin Jobs & Skills (2024)](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024?resource=download&select=linkedin_job_postings.csv)
   - [17M+ Company Dataset](https://www.kaggle.com/datasets/mfrye0/bigpicture-company-dataset)
-  - [LinkedIn Job Postings (2023 - 2024)](https://apps.bea.gov/iTable/?reqid=19&step=2&isuri=1&1921=survey&_gl=1*txxocr*_ga*MTM5OTc3ODg0Ny4xNzMwNDIyMDU2*_ga_J4698JNNFT*MTczMDQyMjA1Ni4xLjEuMTczMDQyMjA2My41My4wLjA.#eyJhcHBpZCI6MTksInN0ZXBzIjpbMSwyLDNdLCJkYXRhIjpbWyJDYXRlZ29yaWVzIiwiU3VydmV5Il0sWyJOSVBBX1RhYmxlX0xpc3QiLCIxNzkiXV19)
+  - [LinkedIn Job Postings (2023 - 2024)]((https://www.kaggle.com/datasets/arshkon/linkedin-job-postings))
   - [BEA Interactive Data Application](https://apps.bea.gov/iTable/?reqid=19&step=2&isuri=1&1921=survey&_gl=1*txxocr*_ga*MTM5OTc3ODg0Ny4xNzMwNDIyMDU2*_ga_J4698JNNFT*MTczMDQyMjA1Ni4xLjEuMTczMDQyMjA2My41My4wLjA.#eyJhcHBpZCI6MTksInN0ZXBzIjpbMSwyLDNdLCJkYXRhIjpbWyJDYXRlZ29yaWVzIiwiU3VydmV5Il0sWyJOSVBBX1RhYmxlX0xpc3QiLCIxNzkiXV19)
   - [BEA Interactive Data Application](https://apps.bea.gov/iTable/?reqid=19&step=2&isuri=1&1921=survey&_gl=1*txxocr*_ga*MTM5OTc3ODg0Ny4xNzMwNDIyMDU2*_ga_J4698JNNFT*MTczMDQyMjA1Ni4xLjEuMTczMDQyMjA2My41My4wLjA.#eyJhcHBpZCI6MTksInN0ZXBzIjpbMSwyLDNdLCJkYXRhIjpbWyJDYXRlZ29yaWVzIiwiU3VydmV5Il0sWyJOSVBBX1RhYmxlX0xpc3QiLCIyMDEiXV19)
 
