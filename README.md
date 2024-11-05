@@ -23,11 +23,11 @@
   - Bar graph showing top paying industries
 
 - **Questions:**
-  - What skills are in the highest demand for analytics?
-  - Which industries are in the most demand in the United States?
-  - What locations are hiring the most?
-  - Comparing market trends overtime?
-  - Does experience level influence job postings?
+  - What skills are in the highest demand for analytics? (Amanda Delgado)
+  - Which industries are in the most demand in the United States? (Latifah Jones)
+  - What locations are hiring the most? (Floris Cash)
+  - Comparing market trends overtime? (Sebastian Andreu)
+  - Does experience level influence job postings? (Luc Atchley)
 
 
 
