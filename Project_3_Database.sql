@@ -19,3 +19,16 @@ CREATE TABLE Job_Experience_Table (
 
 SELECT * FROM Job_Experience_Table LIMIT 100;
 
+CREATE TABLE usa_job_skills (
+	Job_Title VARCHAR(300),
+	Company VARCHAR(100),
+	Job_Location VARCHAR(100),
+	Job_Location2 VARCHAR(100),
+	Job_Location3 VARCHAR(100),
+	Job_Posting_Seen VARCHAR(20),
+	Country VARCHAR(15),
+	Position VARCHAR(100),
+	Job_Level VARCHAR(100),
+	Job_Type VARCHAR(50),
+	Job_Skills VARCHAR(10000)
+);
