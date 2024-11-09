@@ -1,0 +1,425 @@
+Industry Title,Industry Code,Industry Type,2023 Employment,2023 Percent of Occupation,2023 Percent of Industry,Projected 2033 Employment,Projected 2033 Percent of Occupation,Projected 2033 Percent of Industry,"Employment Change, 2023-2033","Employment Percent Change, 2023-2033",Industry Sort,Display Level
+Total employment,TE1000,Summary,"167,849.80",100,100,"174,589.00",100,100,"6,739.20",4,,0
+Self-employed workers,TE1100,Line Item,"9,708.90",5.8,100,"9,828.80",5.6,100,119.9,1.2,2,1
+Total wage and salary employment,TE1200,Summary,"158,140.90",94.2,100,"164,760.30",94.4,100,"6,619.30",4.2,3,1
+"Agriculture, forestry, fishing and hunting",110000,Summary,"1,461.80",0.9,100,"1,473.00",0.8,100,11.2,0.8,4,2
+Crop production,111000,Line Item,849.3,0.5,100,874.4,0.5,100,25.1,3,5,3
+Animal production and aquaculture,112000,Line Item,404,0.2,100,390.5,0.2,100,-13.5,-3.3,6,3
+Forestry and logging,113000,Summary,51.5,0,100,47.3,0,100,-4.2,-8.1,7,3
+Forestry,1131-2,Line Item,6.9,0,100,6.6,0,100,-0.3,-4.9,8,4
+Logging,113300,Line Item,44.6,0,100,40.8,0,100,-3.8,-8.6,9,4
+"Fishing, hunting and trapping",114000,Line Item,28.9,0,100,28.8,0,100,-0.1,-0.3,10,3
+Support activities for agriculture and forestry,115000,Line Item,128.1,0.1,100,131.9,0.1,100,3.8,3,11,3
+"Mining, quarrying, and oil and gas extraction",210000,Summary,595.3,0.4,100,595.5,0.3,100,0.2,0,12,2
+Oil and gas extraction,211000,Line Item,117.2,0.1,100,110.5,0.1,100,-6.7,-5.7,13,3
+Mining (except oil and gas),212000,Summary,187.1,0.1,100,177.4,0.1,100,-9.7,-5.2,14,3
+Coal mining,212100,Line Item,42.7,0,100,23.8,0,100,-18.9,-44.2,15,4
+Metal ore mining,212200,Line Item,43.6,0,100,47.3,0,100,3.7,8.4,16,4
+Nonmetallic mineral mining and quarrying,212300,Line Item,100.8,0.1,100,106.4,0.1,100,5.6,5.5,17,4
+Support activities for mining,213000,Line Item,291,0.2,100,307.5,0.2,100,16.5,5.7,18,3
+Utilities,220000,Summary,575.5,0.3,100,612.8,0.4,100,37.3,6.5,19,2
+Utilities,221000,Summary,575.5,0.3,100,612.8,0.4,100,37.3,6.5,20,3
+"Electric power generation, transmission and distribution",221100,Summary,401.4,0.2,100,445,0.3,100,43.6,10.9,21,4
+Electric power generation,221110,Summary,150.9,0.1,100,169.1,0.1,100,18.2,12,22,5
+Hydroelectric power generation,221111,Line Item,7.8,0,100,8,0,100,0.2,2.2,23,6
+Fossil fuel electric power generation,221112,Line Item,76.3,0,100,51.4,0,100,-24.9,-32.6,24,6
+Nuclear electric power generation,221113,Line Item,37.1,0,100,31.2,0,100,-5.9,-15.9,25,6
+Solar electric power generation,221114,Line Item,12.9,0,100,48.6,0,100,35.7,275.9,26,6
+Wind electric power generation,221115,Line Item,9.3,0,100,20,0,100,10.7,115.1,27,6
+Geothermal electric power generation,221116,Line Item,1.3,0,100,1.8,0,100,0.5,42.1,28,6
+Biomass electric power generation,221117,Line Item,2.2,0,100,2.3,0,100,0,1.9,29,6
+Other electric power generation,221118,Line Item,4,0,100,5.8,0,100,1.8,46.5,30,6
+Natural gas distribution,221200,Line Item,113.8,0.1,100,107.4,0.1,100,-6.4,-5.7,32,4
+"Water, sewage and other systems",221300,Line Item,60.3,0,100,60.4,0,100,0.1,0.2,33,4
+Construction,230000,Summary,"8,017.90",4.8,100,"8,398.00",4.8,100,380.1,4.7,34,2
+Construction of buildings,236000,Summary,"1,811.20",1.1,100,"1,899.60",1.1,100,88.4,4.9,35,3
+Residential building construction,236100,Line Item,927,0.6,100,963.2,0.6,100,36.2,3.9,36,4
+Nonresidential building construction,236200,Line Item,884.2,0.5,100,936.4,0.5,100,52.2,5.9,37,4
+Heavy and civil engineering construction,237000,Summary,"1,116.00",0.7,100,"1,170.70",0.7,100,54.7,4.9,38,3
+Utility system construction,237100,Summary,579.1,0.3,100,611.4,0.4,100,32.3,5.6,39,4
+Power and communication line and related structures construction,237130,Line Item,239.6,0.1,100,255.3,0.1,100,15.7,6.6,40,5
+Land subdivision,237200,Line Item,38.5,0,100,38.6,0,100,0.1,0.3,42,4
+"Highway, street, and bridge construction",237300,Line Item,369.8,0.2,100,386.3,0.2,100,16.5,4.5,43,4
+Other heavy and civil engineering construction,237900,Line Item,128.6,0.1,100,134.4,0.1,100,5.8,4.5,44,4
+Specialty trade contractors,238000,Summary,"5,090.70",3,100,"5,327.70",3.1,100,237,4.7,45,3
+"Foundation, structure, and building exterior contractors",238100,Summary,995.4,0.6,100,"1,032.10",0.6,100,36.7,3.7,46,4
+Poured concrete foundation and structure contractors,238110,Line Item,255.8,0.2,100,267.9,0.2,100,12.1,4.7,47,5
+Masonry contractors,238140,Line Item,149.2,0.1,100,152.8,0.1,100,3.6,2.4,48,5
+Roofing contractors,238160,Line Item,245.3,0.1,100,256.1,0.1,100,10.8,4.4,49,5
+Building equipment contractors,238200,Summary,"2,482.70",1.5,100,"2,637.00",1.5,100,154.3,6.2,51,4
+Electrical contractors and other wiring installation contractors,238210,Line Item,"1,067.40",0.6,100,"1,137.90",0.7,100,70.5,6.6,52,5
+"Plumbing, heating, and air-conditioning contractors",238220,Line Item,"1,259.40",0.8,100,"1,334.40",0.8,100,75,6,53,5
+Other building equipment contractors,238290,Line Item,155.9,0.1,100,164.6,0.1,100,8.7,5.6,54,5
+Building finishing contractors,238300,Summary,832.6,0.5,100,835.6,0.5,100,3,0.4,55,4
+Drywall and insulation contractors,238310,Line Item,247.1,0.1,100,248.6,0.1,100,1.5,0.6,56,5
+Painting and wall covering contractors,238320,Line Item,205,0.1,100,205.8,0.1,100,0.8,0.4,57,5
+Other specialty trade contractors,238900,Line Item,780,0.5,100,823,0.5,100,43,5.5,59,4
+Manufacturing,31-330,Summary,"12,939.50",7.7,100,"13,049.50",7.5,100,110,0.8,60,2
+Food manufacturing,311000,Summary,"1,724.80",1,100,"1,837.70",1.1,100,112.9,6.5,61,3
+Animal food manufacturing,311100,Line Item,73.5,0,100,81.4,0,100,7.9,10.8,62,4
+Grain and oilseed milling,311200,Line Item,63.6,0,100,63.2,0,100,-0.4,-0.7,63,4
+Sugar and confectionery product manufacturing,311300,Line Item,80.7,0,100,84.6,0,100,3.9,4.8,64,4
+Fruit and vegetable preserving and specialty food manufacturing,311400,Line Item,169.1,0.1,100,168.8,0.1,100,-0.3,-0.2,65,4
+Dairy product manufacturing,311500,Line Item,165.2,0.1,100,186.6,0.1,100,21.4,12.9,66,4
+Animal slaughtering and processing,311600,Line Item,547.6,0.3,100,577.5,0.3,100,29.9,5.5,67,4
+Seafood product preparation and packaging,311700,Line Item,28.3,0,100,27.9,0,100,-0.4,-1.4,68,4
+Bakeries and tortilla manufacturing,311800,Line Item,337,0.2,100,352.8,0.2,100,15.8,4.7,69,4
+Other food manufacturing,311900,Line Item,259.8,0.2,100,295,0.2,100,35.2,13.6,70,4
+Beverage and tobacco product manufacturing,312000,Summary,335.1,0.2,100,415,0.2,100,79.9,23.9,71,3
+Beverage manufacturing,312100,Line Item,324.3,0.2,100,405.1,0.2,100,80.8,24.9,72,4
+Tobacco manufacturing,312200,Line Item,10.8,0,100,10,0,100,-0.8,-7.8,73,4
+Textile mills and textile product mills,313-40,Summary,189.9,0.1,100,166.4,0.1,100,-23.5,-12.4,74,3
+Textile mills,313000,Line Item,91,0.1,100,81,0,100,-10,-11,75,4
+Textile product mills,314000,Line Item,98.9,0.1,100,85.4,0,100,-13.5,-13.7,76,4
+"Apparel, leather and allied product manufacturing",315-60,Summary,116,0.1,100,87.7,0.1,100,-28.3,-24.4,77,3
+Apparel manufacturing,315000,Line Item,89.8,0.1,100,64.5,0,100,-25.3,-28.2,78,4
+Leather and allied product manufacturing,316000,Line Item,26.2,0,100,23.2,0,100,-3,-11.3,79,4
+Wood product manufacturing,321000,Summary,417.9,0.2,100,415,0.2,100,-2.9,-0.7,80,3
+Sawmills and wood preservation,321100,Line Item,91.6,0.1,100,91,0.1,100,-0.6,-0.6,81,4
+"Veneer, plywood, and engineered wood product manufacturing",321200,Line Item,82.8,0,100,82.5,0,100,-0.3,-0.4,82,4
+Other wood product manufacturing,321900,Line Item,243.5,0.1,100,241.6,0.1,100,-1.9,-0.8,83,4
+Paper manufacturing,322000,Summary,356.8,0.2,100,307.7,0.2,100,-49.1,-13.8,84,3
+"Pulp, paper, and paperboard mills",322100,Line Item,87.6,0.1,100,66.2,0,100,-21.4,-24.4,85,4
+Converted paper product manufacturing,322200,Line Item,269.2,0.2,100,241.5,0.1,100,-27.7,-10.3,86,4
+Printing and related support activities,323000,Line Item,369.8,0.2,100,302.6,0.2,100,-67.2,-18.2,87,3
+Petroleum and coal products manufacturing,324000,Line Item,107.9,0.1,100,104.7,0.1,100,-3.2,-2.9,88,3
+Chemical manufacturing,325000,Summary,900.2,0.5,100,932.7,0.5,100,32.5,3.6,89,3
+Pharmaceutical and medicine manufacturing,325400,Line Item,346.4,0.2,100,363.5,0.2,100,17.1,4.9,90,4
+"Chemical manufacturing (3255,6)",3250A2,Line Item,181.4,0.1,100,186.7,0.1,100,5.3,2.9,91,4
+"Chemical manufacturing (3251,2,3,9)",3250A1,Line Item,372.4,0.2,100,382.5,0.2,100,10.1,2.7,92,4
+Plastics and rubber products manufacturing,326000,Summary,737.8,0.4,100,770.8,0.4,100,33,4.5,93,3
+Plastics product manufacturing,326100,Line Item,602.6,0.4,100,632.7,0.4,100,30.1,5,94,4
+Rubber product manufacturing,326200,Line Item,135.2,0.1,100,138.1,0.1,100,2.9,2.1,95,4
+Nonmetallic mineral product manufacturing,327000,Line Item,421.3,0.3,100,432,0.2,100,10.7,2.5,96,3
+Primary metal manufacturing,331000,Summary,373.6,0.2,100,362.5,0.2,100,-11.1,-3,97,3
+Iron and steel mills and ferroalloy manufacturing,331100,Line Item,83,0,100,85.5,0,100,2.5,3,98,4
+Steel product manufacturing from purchased steel,331200,Line Item,59.5,0,100,58,0,100,-1.5,-2.6,99,4
+Alumina and aluminum production and processing,331300,Line Item,61,0,100,62.9,0,100,1.9,3,100,4
+Nonferrous metal (except aluminum) production and processing,331400,Line Item,62.4,0,100,63.9,0,100,1.5,2.4,101,4
+Foundries,331500,Line Item,107.7,0.1,100,92.4,0.1,100,-15.3,-14.2,102,4
+Fabricated metal product manufacturing,332000,Summary,"1,453.70",0.9,100,"1,433.20",0.8,100,-20.5,-1.4,103,3
+"Fabricated metal product manufacturing (3323,4)",3320A2,Line Item,507.3,0.3,100,527,0.3,100,19.7,3.9,104,4
+"Machine shops; turned product; and screw, nut, and bolt manufacturing",332700,Summary,343.3,0.2,100,338,0.2,100,-5.3,-1.5,105,4
+Machine shops,332710,Line Item,267.2,0.2,100,273.8,0.2,100,6.6,2.5,106,5
+"Turned product and screw, nut, and bolt manufacturing",332720,Line Item,76.1,0,100,64.2,0,100,-11.9,-15.6,107,5
+"Coating, engraving, heat treating, and allied activities",332800,Line Item,130.2,0.1,100,118.4,0.1,100,-11.8,-9.1,108,4
+"Fabricated metal product manufacturing (3321,2,5,6,9)",3320A1,Line Item,472.9,0.3,100,449.8,0.3,100,-23.1,-4.9,109,4
+Machinery manufacturing,333000,Summary,"1,134.90",0.7,100,"1,130.30",0.6,100,-4.6,-0.4,110,3
+Commercial and service industry machinery manufacturing,333300,Line Item,91.1,0.1,100,92.5,0.1,100,1.4,1.5,111,4
+Metalworking machinery manufacturing,333500,Line Item,162.3,0.1,100,153.2,0.1,100,-9.1,-5.6,112,4
+"Engine, turbine, and power transmission equipment manufacturing",333600,Line Item,92.8,0.1,100,88.9,0.1,100,-3.9,-4.2,113,4
+"Machinery manufacturing (3331,2,4,9)",3330A1,Line Item,788.7,0.5,100,795.6,0.5,100,6.9,0.9,114,4
+Computer and electronic product manufacturing,334000,Summary,"1,108.00",0.7,100,"1,181.60",0.7,100,73.6,6.6,115,3
+Computer and peripheral equipment manufacturing,334100,Line Item,163.2,0.1,100,170,0.1,100,6.8,4.2,116,4
+Communications equipment manufacturing,334200,Line Item,86.2,0.1,100,83.3,0,100,-2.9,-3.3,117,4
+Audio and video equipment manufacturing,334300,Line Item,19.3,0,100,17.2,0,100,-2.1,-11,118,4
+Semiconductor and other electronic component manufacturing,334400,Line Item,394.6,0.2,100,447,0.3,100,52.4,13.3,119,4
+"Navigational, measuring, electromedical, and control instruments manufacturing",334500,Line Item,432.9,0.3,100,456.8,0.3,100,23.9,5.5,120,4
+Manufacturing and reproducing magnetic and optical media,334600,Line Item,11.8,0,100,7.4,0,100,-4.4,-37.5,121,4
+"Electrical equipment, appliance, and component manufacturing",335000,Summary,415.1,0.2,100,482.1,0.3,100,67,16.1,122,3
+Electric lighting equipment manufacturing,335100,Line Item,38,0,100,35,0,100,-3,-7.9,123,4
+Household appliance manufacturing,335200,Line Item,65.3,0,100,64.2,0,100,-1.1,-1.7,124,4
+Electrical equipment manufacturing,335300,Line Item,147,0.1,100,156,0.1,100,9,6.1,125,4
+Other electrical equipment and component manufacturing,335900,Line Item,164.8,0.1,100,227,0.1,100,62.2,37.7,126,4
+Transportation equipment manufacturing,336000,Summary,"1,791.10",1.1,100,"1,696.90",1,100,-94.2,-5.3,127,3
+Motor vehicle manufacturing,336100,Line Item,295.6,0.2,100,312.9,0.2,100,17.3,5.8,128,4
+Motor vehicle body and trailer manufacturing,336200,Line Item,171.6,0.1,100,175.4,0.1,100,3.8,2.2,129,4
+Motor vehicle parts manufacturing,336300,Line Item,573.3,0.3,100,450,0.3,100,-123.3,-21.5,130,4
+Aerospace product and parts manufacturing,336400,Line Item,533.9,0.3,100,545.1,0.3,100,11.2,2.1,131,4
+Railroad rolling stock manufacturing,336500,Line Item,21.5,0,100,19.2,0,100,-2.3,-10.9,132,4
+Ship and boat building,336600,Line Item,154.6,0.1,100,159.6,0.1,100,5,3.2,133,4
+Other transportation equipment manufacturing,336900,Line Item,40.6,0,100,34.9,0,100,-5.7,-14.1,134,4
+Furniture and related product manufacturing,337000,Summary,357.7,0.2,100,338.4,0.2,100,-19.3,-5.4,135,3
+"Furniture and related product manufacturing (3371,2)",3370A1,Line Item,326.5,0.2,100,307.5,0.2,100,-19,-5.8,136,4
+Other furniture related product manufacturing,337900,Line Item,31.2,0,100,30.9,0,100,-0.3,-0.9,137,4
+Miscellaneous manufacturing,339000,Summary,627.9,0.4,100,651.9,0.4,100,24,3.8,138,3
+Medical equipment and supplies manufacturing,339100,Line Item,334.2,0.2,100,352,0.2,100,17.8,5.3,139,4
+Other miscellaneous manufacturing,339900,Summary,293.7,0.2,100,299.9,0.2,100,6.2,2.1,140,4
+Jewelry and silverware manufacturing,339910,Line Item,22.6,0,100,17.7,0,100,-4.9,-21.8,141,5
+Wholesale trade,420000,Summary,"6,116.30",3.6,100,"6,286.60",3.6,100,170.3,2.8,143,2
+"Merchant wholesalers, durable goods",423000,Summary,"3,395.10",2,100,"3,492.80",2,100,97.7,2.9,144,3
+Motor vehicle and motor vehicle parts and supplies merchant wholesalers,423100,Line Item,379.3,0.2,100,381,0.2,100,1.7,0.4,145,4
+Professional and commercial equipment and supplies merchant wholesalers,423400,Line Item,748.2,0.4,100,784.6,0.4,100,36.4,4.9,146,4
+"Machinery, equipment, and supplies merchant wholesalers",423800,Summary,757.4,0.5,100,785.8,0.5,100,28.4,3.8,147,4
+Farm and garden machinery and equipment merchant wholesalers,423820,Line Item,116.1,0.1,100,113.2,0.1,100,-2.9,-2.5,148,5
+"Merchant wholesalers, durable goods (4232,3,5,6,7,9)",4230A1,Line Item,"1,510.20",0.9,100,"1,541.50",0.9,100,31.3,2.1,150,4
+"Merchant wholesalers, nondurable goods",424000,Summary,"2,207.40",1.3,100,"2,272.00",1.3,100,64.6,2.9,151,3
+"Apparel, piece goods, and notions merchant wholesalers",424300,Line Item,149.4,0.1,100,147.7,0.1,100,-1.7,-1.1,152,4
+Farm product raw material merchant wholesalers,424500,Line Item,71.3,0,100,68.5,0,100,-2.8,-3.9,153,4
+"Merchant wholesalers, nondurable goods (4242,6)",4240A2,Line Item,409.7,0.2,100,433.8,0.2,100,24.1,5.9,154,4
+"Merchant wholesalers, nondurable goods (4244,8)",4240A1,Line Item,"1,033.50",0.6,100,"1,068.70",0.6,100,35.2,3.4,155,4
+"Merchant wholesalers, nondurable goods (4241,7,9)",4240A3,Line Item,543.5,0.3,100,553.2,0.3,100,9.7,1.8,156,4
+Wholesale trade agents and brokers,425000,Line Item,513.8,0.3,100,521.8,0.3,100,8,1.6,157,3
+Retail trade,44-450,Summary,"15,590.10",9.3,100,"15,225.30",8.7,100,-364.8,-2.3,158,2
+Motor vehicle and parts dealers,441000,Summary,"2,044.70",1.2,100,"2,061.30",1.2,100,16.6,0.8,159,3
+Automobile dealers,441100,Line Item,"1,276.10",0.8,100,"1,286.90",0.7,100,10.8,0.8,160,4
+Other motor vehicle dealers,441200,Line Item,178,0.1,100,181.4,0.1,100,3.4,1.9,161,4
+"Automotive parts, accessories, and tire retailers",441300,Line Item,590.6,0.4,100,593,0.3,100,2.4,0.4,162,4
+Food and beverage retailers,445000,Summary,"3,238.40",1.9,100,"3,102.20",1.8,100,-136.2,-4.2,163,3
+Grocery and specialty food retailers,4450A1,Line Item,"3,060.70",1.8,100,"2,920.70",1.7,100,-140,-4.6,164,4
+"Beer, wine, and liquor retailers",445300,Line Item,177.7,0.1,100,181.5,0.1,100,3.8,2.1,165,4
+General merchandise retailers,455000,Line Item,"3,218.20",1.9,100,"3,128.80",1.8,100,-89.4,-2.8,166,3
+"All other retail trade (444, 449, 456-9)",4445R0,Summary,"7,088.80",4.2,100,"6,932.90",4,100,-155.9,-2.2,167,3
+Building material and garden equipment and supplies dealers,444000,Summary,"1,406.20",0.8,100,"1,456.60",0.8,100,50.4,3.6,168,4
+Building material and supplies dealers,444100,Line Item,"1,217.10",0.7,100,"1,260.40",0.7,100,43.3,3.6,169,5
+Lawn and garden equipment and supplies retailers,444200,Line Item,189.1,0.1,100,196.2,0.1,100,7.1,3.8,170,5
+"Furniture, home furnishings, electronics, and appliance retailers",449000,Summary,848.2,0.5,100,804.2,0.5,100,-44,-5.2,171,4
+Furniture and home furnishings retailers,449100,Line Item,432.5,0.3,100,431.2,0.2,100,-1.3,-0.3,172,5
+Electronics and appliance retailers,449200,Line Item,415.7,0.2,100,373,0.2,100,-42.7,-10.3,173,5
+Health and personal care retailers,456000,Summary,"1,097.40",0.7,100,"1,108.20",0.6,100,10.8,1,174,4
+Health and personal care retailers,456100,Summary,"1,097.40",0.7,100,"1,108.20",0.6,100,10.8,1,175,5
+Pharmacies and drug retailers,456110,Line Item,724.6,0.4,100,724.1,0.4,100,-0.5,-0.1,176,6
+Gasoline stations and fuel dealers,457000,Summary,"1,060.00",0.6,100,959.2,0.5,100,-100.8,-9.5,178,4
+Gasoline stations,457100,Line Item,988.3,0.6,100,889.9,0.5,100,-98.4,-10,179,5
+Fuel dealers,457200,Line Item,71.7,0,100,69.3,0,100,-2.4,-3.3,180,5
+"Clothing, clothing accessories, shoe, and jewelry retailers",458000,Summary,"1,146.50",0.7,100,"1,128.00",0.6,100,-18.5,-1.6,181,4
+Clothing and clothing accessories retailers,458100,Line Item,851.8,0.5,100,842.4,0.5,100,-9.4,-1.1,182,5
+Shoe retailers,458200,Line Item,171.6,0.1,100,168.5,0.1,100,-3.1,-1.8,183,5
+"Jewelry, luggage, and leather goods retailers",458300,Line Item,123.1,0.1,100,117.2,0.1,100,-5.9,-4.8,184,5
+"Sporting goods, hobby, musical instrument, book, and miscellaneous retailers",459000,Summary,"1,530.50",0.9,100,"1,476.70",0.8,100,-53.8,-3.5,185,4
+Sporting goods retailers,459110,Line Item,302.8,0.2,100,315.4,0.2,100,12.6,4.2,186,5
+Book retailers and news dealers,459200,Line Item,71.5,0,100,65.9,0,100,-5.6,-7.9,188,5
+Florists,459300,Line Item,62.4,0,100,56.2,0,100,-6.2,-10,189,5
+Miscellaneous store retailers (4594 and 4595 only),4590A1,Line Item,412.4,0.2,100,379.2,0.2,100,-33.2,-8,190,5
+Other miscellaneous retailers,459900,Line Item,487.2,0.3,100,490.2,0.3,100,3,0.6,191,5
+Transportation and warehousing,48-490,Summary,"6,565.30",3.9,100,"6,952.30",4,100,387,5.9,192,2
+Air transportation,481000,Summary,552,0.3,100,580,0.3,100,28,5.1,193,3
+Scheduled air transportation,481100,Line Item,494.1,0.3,100,518.6,0.3,100,24.5,5,194,4
+Nonscheduled air transportation,481200,Line Item,57.9,0,100,61.5,0,100,3.6,6.2,195,4
+Rail transportation,482000,Line Item,152.5,0.1,100,154,0.1,100,1.5,1,196,3
+Water transportation,483000,Summary,69.9,0,100,71.7,0,100,1.8,2.6,197,3
+"Deep sea, coastal, and great lakes water transportation",483100,Line Item,41.6,0,100,42.5,0,100,1,2.3,198,4
+Inland water transportation,483200,Line Item,28.3,0,100,29.2,0,100,0.8,2.9,199,4
+Truck transportation,484000,Line Item,"1,566.50",0.9,100,"1,596.70",0.9,100,30.2,1.9,200,3
+Transit and ground passenger transportation,485000,Summary,427.8,0.3,100,448,0.3,100,20.2,4.7,201,3
+Urban transit systems,485100,Line Item,44,0,100,46.1,0,100,2.1,4.8,202,4
+Interurban and rural bus transportation,485200,Line Item,15.2,0,100,15.9,0,100,0.7,4.6,203,4
+Taxi and limousine service,485300,Line Item,58.5,0,100,56,0,100,-2.5,-4.3,204,4
+School and employee bus transportation,485400,Line Item,184,0.1,100,191.1,0.1,100,7.1,3.9,205,4
+Charter bus industry,485500,Line Item,22.8,0,100,24.6,0,100,1.9,8.2,206,4
+Other transit and ground passenger transportation,485900,Line Item,103.3,0.1,100,114.2,0.1,100,10.9,10.6,207,4
+Pipeline transportation,486000,Summary,51.8,0,100,54.1,0,100,2.3,4.4,208,3
+Pipeline transportation of crude oil,486100,Line Item,11.6,0,100,11.8,0,100,0.3,2.3,209,4
+Pipeline transportation of natural gas,486200,Line Item,31.8,0,100,33.6,0,100,1.8,5.5,210,4
+Other pipeline transportation,486900,Line Item,8.4,0,100,8.7,0,100,0.3,3.4,211,4
+Scenic and sightseeing transportation and support activities for transportation,487-80,Summary,853.4,0.5,100,905.1,0.5,100,51.7,6.1,212,3
+Scenic and sightseeing transportation,487000,Summary,30.1,0,100,31.3,0,100,1.2,4,213,4
+"Scenic and sightseeing transportation, land",487100,Line Item,10.5,0,100,10.9,0,100,0.4,3.8,214,5
+"Scenic and sightseeing transportation, water",487200,Line Item,17,0,100,17.6,0,100,0.7,3.8,215,5
+"Scenic and sightseeing transportation, other",487900,Line Item,2.6,0,100,2.8,0,100,0.2,6.5,216,5
+Support activities for transportation,488000,Summary,823.3,0.5,100,873.8,0.5,100,50.5,6.1,217,4
+Support activities for air transportation,488100,Line Item,255,0.2,100,267.9,0.2,100,12.9,5.1,218,5
+Support activities for rail transportation,488200,Line Item,42.4,0,100,42.9,0,100,0.5,1.1,219,5
+Support activities for water transportation,488300,Line Item,93.7,0.1,100,95.9,0.1,100,2.2,2.4,220,5
+Support activities for road transportation,488400,Line Item,117.5,0.1,100,123.1,0.1,100,5.6,4.8,221,5
+Freight transportation arrangement,488500,Line Item,272,0.2,100,299.6,0.2,100,27.6,10.1,222,5
+Other support activities for transportation,488900,Line Item,42.7,0,100,44.3,0,100,1.7,3.9,223,5
+Couriers and messengers,492000,Summary,"1,083.00",0.6,100,"1,203.70",0.7,100,120.7,11.1,224,3
+Couriers and express delivery services,492100,Line Item,894,0.5,100,989.5,0.6,100,95.5,10.7,225,4
+Local messengers and local delivery,492200,Line Item,189,0.1,100,214.3,0.1,100,25.3,13.4,226,4
+Warehousing and storage,493000,Line Item,"1,808.40",1.1,100,"1,938.90",1.1,100,130.5,7.2,227,3
+Information,510000,Summary,"3,027.10",1.8,100,"3,242.90",1.9,100,215.8,7.1,228,2
+Motion picture and sound recording industries,512000,Summary,419.2,0.2,100,449.4,0.3,100,30.2,7.2,229,3
+Motion picture and video industries,512100,Summary,396.4,0.2,100,426,0.2,100,29.6,7.5,230,4
+Motion picture and video exhibition,512130,Line Item,122.1,0.1,100,124,0.1,100,1.9,1.6,231,5
+Sound recording industries,512200,Line Item,22.8,0,100,23.4,0,100,0.6,2.6,233,4
+"Publishing, broadcasting, and content providers",5136-9,Summary,"2,607.90",1.6,100,"2,793.50",1.6,100,185.6,7.1,234,3
+Software publishers,513200,Line Item,656,0.4,100,790.1,0.5,100,134.1,20.4,235,4
+"Miscellaneous information services (5131, 516, 519)",5136A9,Summary,815.9,0.5,100,821.6,0.5,100,5.7,0.7,236,4
+Newspaper publishers,513110,Line Item,94.7,0.1,100,73.9,0,100,-20.8,-21.9,237,5
+Radio broadcasting stations,516110,Line Item,53.1,0,100,50.1,0,100,-3,-5.6,239,5
+Television broadcasting stations,516120,Line Item,67.5,0,100,65.7,0,100,-1.8,-2.6,240,5
+"Media streaming distribution services, social networks, and other media networks and content providers",516210,Line Item,226.8,0.1,100,239.9,0.1,100,13.1,5.8,241,5
+"Web search portals, libraries, archives, and other information services",519000,Line Item,179.9,0.1,100,211.2,0.1,100,31.3,17.4,242,5
+Telecommunications,517000,Line Item,646.4,0.4,100,596.8,0.3,100,-49.6,-7.7,243,4
+"Computing infrastructure providers, data processing, web hosting, and related services",518000,Line Item,489.6,0.3,100,585,0.3,100,95.4,19.5,244,4
+Finance and insurance,520000,Summary,"6,730.90",4,100,"7,015.40",4,100,284.5,4.2,245,2
+"Monetary authorities - central bank, and credit intermediation and related activities",521-20,Summary,"2,654.00",1.6,100,"2,647.10",1.5,100,-6.9,-0.3,246,3
+Monetary authorities-central bank,521000,Line Item,22.6,0,100,22.5,0,100,-0.1,-0.4,247,4
+Credit intermediation and related activities,522000,Summary,"2,631.40",1.6,100,"2,624.60",1.5,100,-6.8,-0.3,248,4
+Nondepository credit intermediation,522200,Summary,538.2,0.3,100,544,0.3,100,5.8,1.1,249,5
+Other nondepository credit intermediation,522290,Line Item,381.9,0.2,100,389.1,0.2,100,7.2,1.9,250,6
+"Credit intermediation and related activities (5221,3)",5220A1,Line Item,"2,093.20",1.2,100,"2,080.60",1.2,100,-12.6,-0.6,252,5
+Insurance carriers and related activities,524000,Summary,"2,975.20",1.8,100,"3,076.10",1.8,100,100.9,3.4,253,3
+Insurance carriers,524100,Summary,"1,623.60",1,100,"1,651.00",0.9,100,27.4,1.7,254,4
+Direct health and medical insurance carriers,524114,Line Item,595.3,0.4,100,630.7,0.4,100,35.4,5.9,255,5
+"Direct insurance (except life, health, and medical) carriers",524120,Line Item,680.5,0.4,100,675.3,0.4,100,-5.2,-0.8,256,5
+"Agencies, brokerages, and other insurance related activities",524200,Summary,"1,351.60",0.8,100,"1,425.10",0.8,100,73.5,5.4,258,4
+Insurance agencies and brokerages,524210,Line Item,963,0.6,100,"1,013.30",0.6,100,50.3,5.2,259,5
+Other insurance related activities,524290,Line Item,388.6,0.2,100,411.9,0.2,100,23.3,6,260,5
+"Securities, commodity contracts, fund, trusts and other financial investments and vehicles and related activities","523,50",Summary,"1,101.70",0.7,100,"1,292.20",0.7,100,190.5,17.3,261,3
+"Securities, commodity contracts, and other financial investments and related activities",523000,Line Item,"1,072.10",0.6,100,"1,260.10",0.7,100,188,17.5,262,4
+"Funds, trusts, and other financial vehicles",525000,Summary,29.6,0,100,32.1,0,100,2.5,8.3,263,4
+Insurance and employee benefit funds,525100,Line Item,11.4,0,100,12.1,0,100,0.8,6.8,264,5
+Other investment pools and funds,525900,Line Item,18.3,0,100,19.9,0,100,1.7,9.2,265,5
+Real estate and rental and leasing,530000,Summary,"2,466.50",1.5,100,"2,565.40",1.5,100,98.9,4,266,2
+Real estate,531000,Line Item,"1,857.60",1.1,100,"1,932.30",1.1,100,74.7,4,267,3
+Rental and leasing services,532000,Summary,585.9,0.3,100,611.8,0.4,100,25.9,4.4,268,3
+Automotive equipment rental and leasing,532100,Line Item,227.6,0.1,100,248.2,0.1,100,20.6,9,269,4
+"Rental and leasing services (5322,3,4)",5320A1,Line Item,358.3,0.2,100,363.6,0.2,100,5.3,1.5,270,4
+Lessors of nonfinancial intangible assets (except copyrighted works),533000,Line Item,23,0,100,21.3,0,100,-1.7,-7.2,271,3
+"Professional, scientific, and technical services",540000,Summary,"10,825.20",6.4,100,"11,960.70",6.9,100,"1,135.50",10.5,272,2
+"Professional, scientific, and technical services",541000,Summary,"10,825.20",6.4,100,"11,960.70",6.9,100,"1,135.50",10.5,273,3
+Legal services,541100,Line Item,"1,184.20",0.7,100,"1,203.50",0.7,100,19.3,1.6,274,4
+"Accounting, tax preparation, bookkeeping, and payroll services",541200,Line Item,"1,149.20",0.7,100,"1,185.10",0.7,100,35.9,3.1,275,4
+"Architectural, engineering, and related services",541300,Summary,"1,660.10",1,100,"1,735.10",1,100,75,4.5,276,4
+Engineering services,541330,Line Item,"1,135.40",0.7,100,"1,190.30",0.7,100,54.9,4.8,278,5
+Testing laboratories and services,541380,Line Item,179.7,0.1,100,187.9,0.1,100,8.2,4.6,280,5
+Specialized design services,541400,Line Item,153.3,0.1,100,160,0.1,100,6.7,4.4,281,4
+Computer systems design and related services,541500,Line Item,"2,500.10",1.5,100,"2,987.70",1.7,100,487.6,19.5,282,4
+"Management, scientific, and technical consulting services",541600,Line Item,"1,867.30",1.1,100,"2,102.30",1.2,100,235,12.6,283,4
+Scientific research and development services,541700,Summary,935.6,0.6,100,"1,055.40",0.6,100,119.8,12.8,284,4
+"Research and development in the physical, engineering, and life sciences",541710,Line Item,867.9,0.5,100,983.5,0.6,100,115.6,13.3,285,5
+Research and development in the social sciences and humanities,541720,Line Item,67.7,0,100,72,0,100,4.3,6.3,286,5
+"Advertising, public relations, and related services",541800,Line Item,508,0.3,100,535,0.3,100,27,5.3,287,4
+"Other professional, scientific, and technical services",541900,Summary,867.4,0.5,100,996.4,0.6,100,129,14.9,288,4
+Photographic services,541920,Line Item,48.5,0,100,43.8,0,100,-4.7,-9.6,289,5
+Veterinary services,541940,Line Item,462.6,0.3,100,548,0.3,100,85.4,18.5,290,5
+Management of companies and enterprises,550000,Summary,"2,558.10",1.5,100,"2,750.20",1.6,100,192.1,7.5,292,2
+Management of companies and enterprises,551000,Line Item,"2,558.10",1.5,100,"2,750.20",1.6,100,192.1,7.5,293,3
+Administrative and support and waste management and remediation services,560000,Summary,"9,456.80",5.6,100,"9,771.30",5.6,100,314.5,3.3,294,2
+Administrative and support services,561000,Summary,"8,956.50",5.3,100,"9,238.80",5.3,100,282.3,3.2,295,3
+Office administrative services,561100,Line Item,620.4,0.4,100,690.1,0.4,100,69.7,11.2,296,4
+Facilities support services,561200,Line Item,169.3,0.1,100,186.6,0.1,100,17.3,10.2,297,4
+Employment services,561300,Summary,"3,639.50",2.2,100,"3,660.70",2.1,100,21.2,0.6,298,4
+Temporary help services,561320,Line Item,"2,870.30",1.7,100,"2,934.00",1.7,100,63.7,2.2,299,5
+Business support services,561400,Line Item,744,0.4,100,727,0.4,100,-17,-2.3,301,4
+Travel arrangement and reservation services,561500,Line Item,190.8,0.1,100,202.5,0.1,100,11.7,6.1,302,4
+Investigation and security services,561600,Summary,"1,003.50",0.6,100,"1,075.10",0.6,100,71.6,7.1,303,4
+"Investigation, guard, and armored car services",561610,Line Item,843.9,0.5,100,900.9,0.5,100,57,6.8,304,5
+Security systems services,561620,Line Item,159.6,0.1,100,174.2,0.1,100,14.6,9.1,305,5
+Services to buildings and dwellings,561700,Summary,"2,251.20",1.3,100,"2,345.70",1.3,100,94.5,4.2,306,4
+Exterminating and pest control services,561710,Line Item,147.8,0.1,100,156,0.1,100,8.2,5.5,307,5
+Landscaping services,561730,Line Item,886.6,0.5,100,931.2,0.5,100,44.6,5,308,5
+Other support services,561900,Line Item,337.8,0.2,100,351.2,0.2,100,13.4,4,310,4
+Waste management and remediation services,562000,Summary,500.3,0.3,100,532.5,0.3,100,32.2,6.4,311,3
+Waste collection,562100,Line Item,214.6,0.1,100,229,0.1,100,14.4,6.7,312,4
+Waste treatment and disposal,562200,Line Item,105.1,0.1,100,108.7,0.1,100,3.6,3.4,313,4
+Remediation and other waste management services,562900,Line Item,180.6,0.1,100,194.9,0.1,100,14.3,7.9,314,4
+"Educational services; state, local, and private",610000,Summary,"14,366.20",8.6,100,"14,466.70",8.3,100,100.5,0.7,315,2
+"Educational services; state, local, and private",611000,Summary,"14,366.20",8.6,100,"14,466.70",8.3,100,100.5,0.7,316,3
+Educational services; private,6110P0,Summary,"3,817.70",2.3,100,"3,870.40",2.2,100,52.7,1.4,317,4
+Elementary and secondary schools; private,61110P,Line Item,"1,154.00",0.7,100,"1,155.50",0.7,100,1.5,0.1,318,5
+"Junior colleges, colleges, universities, and professional schools; private (6112,3)",6110P1,Summary,"1,745.00",1,100,"1,774.30",1,100,29.3,1.7,319,5
+Junior colleges; private,61120P,Line Item,27.5,0,100,26.7,0,100,-0.8,-2.9,320,6
+"Colleges, universities, and professional schools; private",61130P,Line Item,"1,717.50",1,100,"1,747.60",1,100,30.1,1.8,321,6
+Other educational services; private (6114-7),6110P2,Summary,918.7,0.5,100,940.6,0.5,100,21.9,2.4,322,5
+Business schools and computer and management training; private,61140P,Line Item,88.9,0.1,100,92.2,0.1,100,3.3,3.7,323,6
+Technical and trade schools; private,61150P,Line Item,120.7,0.1,100,122.3,0.1,100,1.6,1.3,324,6
+Other schools and instruction; private,61160P,Line Item,513.7,0.3,100,525.8,0.3,100,12.1,2.4,325,6
+Educational support services; private,61170P,Line Item,195.4,0.1,100,200.4,0.1,100,5,2.5,326,6
+Educational services; state and local,6110Y0,Summary,"10,548.50",6.3,100,"10,596.30",6.1,100,47.8,0.5,327,4
+Elementary and secondary schools; state,61110S,Line Item,79.6,0,100,77,0,100,-2.6,-3.3,328,5
+Elementary and secondary schools; local,61110L,Line Item,"7,448.10",4.4,100,"7,341.10",4.2,100,-107,-1.4,329,5
+"Junior colleges, colleges, universities, and professional schools; state and local (6112,3)",6110Y1,Summary,"2,941.80",1.8,100,"3,088.50",1.8,100,146.7,5,330,5
+Junior colleges; state,61120S,Line Item,259.2,0.2,100,263.1,0.2,100,3.9,1.5,331,6
+Junior colleges; local,61120L,Line Item,390.1,0.2,100,393.7,0.2,100,3.5,0.9,332,6
+"Colleges, universities, and professional schools; state",61130S,Line Item,"2,221.20",1.3,100,"2,352.00",1.3,100,130.8,5.9,333,6
+"Colleges, universities, and professional schools; local",61130L,Line Item,71.3,0,100,79.7,0,100,8.4,11.8,334,6
+Other educational services; state and local (6114-7),6110Y2,Summary,79,0,100,89.7,0.1,100,10.7,13.6,335,5
+Business schools and computer and management training; state,61140S,Line Item,2.8,0,100,3.1,0,100,0.3,10.7,336,6
+Business schools and computer and management training; local,61140L,Line Item,2,0,100,2.3,0,100,0.2,11.8,337,6
+Technical and trade schools; state,61150S,Line Item,14.3,0,100,14.8,0,100,0.5,3.4,338,6
+Technical and trade schools; local,61150L,Line Item,10.2,0,100,10.7,0,100,0.5,4.8,339,6
+Other schools and instruction; state,61160S,Line Item,1.6,0,100,1.7,0,100,0.1,4.1,340,6
+Other schools and instruction; local,61160L,Line Item,8,0,100,8.3,0,100,0.3,3.8,341,6
+Educational support services; local,61170L,Line Item,39.8,0,100,48.7,0,100,8.9,22.2,343,6
+Healthcare and social assistance,620000,Summary,"22,645.20",13.5,100,"24,918.40",14.3,100,"2,273.20",10,344,2
+Ambulatory healthcare services,621000,Summary,"8,461.00",5,100,"9,617.90",5.5,100,"1,156.90",13.7,345,3
+Offices of physicians,621100,Line Item,"2,920.80",1.7,100,"3,170.20",1.8,100,249.4,8.5,346,4
+Offices of dentists,621200,Line Item,"1,027.20",0.6,100,"1,099.10",0.6,100,71.9,7,347,4
+Offices of other health practitioners,621300,Summary,"1,155.30",0.7,100,"1,380.50",0.8,100,225.2,19.5,348,4
+Offices of chiropractors,621310,Line Item,147.3,0.1,100,156.7,0.1,100,9.4,6.4,349,5
+Offices of optometrists,621320,Line Item,151.8,0.1,100,164.3,0.1,100,12.5,8.2,350,5
+Offices of mental health practitioners (except physicians),621330,Line Item,203.6,0.1,100,262.3,0.2,100,58.7,28.8,351,5
+"Offices of physical, occupational and speech therapists, and audiologists",621340,Line Item,469.7,0.3,100,590.2,0.3,100,120.5,25.6,352,5
+Offices of all other health practitioners,621390,Line Item,182.9,0.1,100,207.1,0.1,100,24.2,13.2,353,5
+Outpatient care centers,621400,Summary,"1,060.90",0.6,100,"1,285.10",0.7,100,224.2,21.1,354,4
+Outpatient mental health and substance abuse centers,621420,Line Item,294.1,0.2,100,359.8,0.2,100,65.7,22.3,355,5
+Medical and diagnostic laboratories,621500,Line Item,321.3,0.2,100,346.2,0.2,100,24.9,7.8,357,4
+Home healthcare services,621600,Line Item,"1,627.20",1,100,"1,952.50",1.1,100,325.3,20,358,4
+Other ambulatory healthcare services,621900,Summary,348.3,0.2,100,384.1,0.2,100,35.8,10.3,359,4
+Ambulance services,621910,Line Item,165.3,0.1,100,172.9,0.1,100,7.6,4.6,360,5
+All other ambulatory healthcare services,621990,Line Item,183,0.1,100,211.3,0.1,100,28.3,15.4,361,5
+"Hospitals; state, local, and private",622000,Summary,"6,459.10",3.8,100,"6,780.50",3.9,100,321.4,5,362,3
+Hospitals; private,6220P0,Summary,"5,338.40",3.2,100,"5,630.40",3.2,100,292,5.5,363,4
+General medical and surgical hospitals; private,62210P,Line Item,"4,886.30",2.9,100,"5,123.70",2.9,100,237.4,4.9,364,5
+Psychiatric and substance abuse hospitals; private,62220P,Line Item,157.7,0.1,100,177.4,0.1,100,19.7,12.5,365,5
+Specialty (except psychiatric and substance abuse) hospitals; private,62230P,Line Item,294.4,0.2,100,329.4,0.2,100,35,11.9,366,5
+Hospitals; state and local,6220Y0,Summary,"1,120.70",0.7,100,"1,150.10",0.7,100,29.4,2.6,367,4
+General medical and surgical hospitals; state,62210S,Line Item,280.7,0.2,100,295.3,0.2,100,14.6,5.2,368,5
+General medical and surgical hospitals; local,62210L,Line Item,687.4,0.4,100,708.5,0.4,100,21,3.1,369,5
+Psychiatric and substance abuse hospitals; state,62220S,Line Item,111.2,0.1,100,103.5,0.1,100,-7.7,-6.9,370,5
+Psychiatric and substance abuse hospitals; local,62220L,Line Item,3.2,0,100,3,0,100,-0.2,-7.4,371,5
+Specialty (except psychiatric and substance abuse) hospitals; state,62230S,Line Item,37.4,0,100,39.1,0,100,1.7,4.7,372,5
+Specialty (except psychiatric and substance abuse) hospitals; local,62230L,Line Item,0.7,0,100,0.7,0,100,0,-6.4,373,5
+Nursing and residential care facilities,623000,Summary,"3,153.90",1.9,100,"3,300.20",1.9,100,146.3,4.6,374,3
+Nursing care facilities (skilled nursing facilities),623100,Line Item,"1,416.50",0.8,100,"1,389.40",0.8,100,-27.1,-1.9,375,4
+"Residential intellectual and developmental disability, mental health, and substance abuse facilities",623200,Summary,636.7,0.4,100,670,0.4,100,33.3,5.2,376,4
+Residential intellectual and developmental disability facilities,623210,Line Item,384.6,0.2,100,396,0.2,100,11.4,3,377,5
+Residential mental health and substance abuse facilities,623220,Line Item,252.1,0.2,100,273.9,0.2,100,21.8,8.7,378,5
+Continuing care retirement communities and assisted living facilities for the elderly,623300,Line Item,943.9,0.6,100,"1,082.50",0.6,100,138.6,14.7,379,4
+Other residential care facilities,623900,Line Item,156.8,0.1,100,158.4,0.1,100,1.6,1,380,4
+Social assistance,624000,Summary,"4,571.20",2.7,100,"5,219.80",3,100,648.6,14.2,381,3
+Individual and family services,624100,Summary,"3,034.10",1.8,100,"3,709.90",2.1,100,675.8,22.3,382,4
+Services for the elderly and persons with disabilities,624120,Line Item,"2,313.40",1.4,100,"2,927.10",1.7,100,613.7,26.5,383,5
+"Community food and housing, emergency and other relief services, and vocational rehabilitation services",6242-3,Summary,500.9,0.3,100,484.6,0.3,100,-16.3,-3.3,385,4
+"Community food and housing, and emergency and other relief services",624200,Line Item,219.7,0.1,100,235,0.1,100,15.3,7,386,5
+Vocational rehabilitation services,624300,Line Item,281.2,0.2,100,249.5,0.1,100,-31.7,-11.3,387,5
+Child daycare services,624400,Line Item,"1,036.20",0.6,100,"1,025.40",0.6,100,-10.8,-1,388,4
+"Arts, entertainment, and recreation",710000,Summary,"2,518.10",1.5,100,"2,670.40",1.5,100,152.3,6,389,2
+"Performing arts, spectator sports, and related industries",711000,Summary,576.6,0.3,100,608.5,0.3,100,31.9,5.5,390,3
+Performing arts companies,711100,Summary,134.3,0.1,100,140,0.1,100,5.7,4.3,391,4
+Theater companies and dinner theaters,711110,Line Item,73.6,0,100,77.1,0,100,3.6,4.9,392,5
+Spectator sports,711200,Line Item,195.5,0.1,100,205.8,0.1,100,10.3,5.3,394,4
+"Promoters of performing arts and sports, and agents for public figures",7113-4,Summary,185.6,0.1,100,203.4,0.1,100,17.8,9.6,395,4
+"Promoters of performing arts, sports, and similar events",711300,Line Item,156.4,0.1,100,171.8,0.1,100,15.5,9.9,396,5
+"Agents and managers for artists, athletes, entertainers, and other public figures",711400,Line Item,29.2,0,100,31.5,0,100,2.3,7.8,397,5
+"Independent artists, writers, and performers",711500,Line Item,61.2,0,100,59.3,0,100,-1.9,-3,398,4
+"Museums, historical sites, and similar institutions",712000,Line Item,171.7,0.1,100,193.1,0.1,100,21.4,12.5,399,3
+"Amusement, gambling, and recreation industries",713000,Summary,"1,769.80",1.1,100,"1,868.80",1.1,100,99,5.6,400,3
+Amusement parks and arcades,713100,Line Item,221.9,0.1,100,233,0.1,100,11.1,5,401,4
+Gambling industries (except casino hotels),713200,Line Item,116.9,0.1,100,103.2,0.1,100,-13.7,-11.7,402,4
+Other amusement and recreation industries,713900,Summary,"1,431.00",0.9,100,"1,532.60",0.9,100,101.6,7.1,403,4
+Fitness and recreational sports centers,713940,Line Item,626.7,0.4,100,686.6,0.4,100,59.9,9.6,404,5
+Accommodation and food services,720000,Summary,"14,074.70",8.4,100,"14,745.10",8.4,100,670.4,4.8,406,2
+Accommodation,721000,Summary,"1,890.80",1.1,100,"2,015.50",1.2,100,124.7,6.6,407,3
+Traveler accommodation,721100,Summary,"1,796.40",1.1,100,"1,916.90",1.1,100,120.6,6.7,408,4
+Casino hotels,721120,Line Item,239.5,0.1,100,251.5,0.1,100,12,5,409,5
+RV (recreational vehicle) parks and recreational camps,721200,Line Item,84.8,0.1,100,88.7,0.1,100,3.9,4.6,411,4
+"Rooming and boarding houses, dormitories, and workers' camps",721300,Line Item,9.6,0,100,9.9,0,100,0.2,2.4,412,4
+Food services and drinking places,722000,Summary,"12,183.90",7.3,100,"12,729.60",7.3,100,545.7,4.5,413,3
+Special food services,722300,Line Item,744,0.4,100,789.2,0.5,100,45.2,6.1,414,4
+Drinking places (alcoholic beverages),722400,Line Item,433.2,0.3,100,471,0.3,100,37.8,8.7,415,4
+Restaurants and other eating places,722500,Summary,"11,006.70",6.6,100,"11,469.40",6.6,100,462.7,4.2,416,4
+Full-service restaurants,722511,Line Item,"5,355.40",3.2,100,"5,575.60",3.2,100,220.2,4.1,417,5
+Other services (except public administration),810000,Summary,"6,497.90",3.9,100,"6,779.90",3.9,100,282,4.3,419,2
+Repair and maintenance,811000,Summary,"1,452.80",0.9,100,"1,507.20",0.9,100,54.4,3.7,420,3
+Automotive repair and maintenance,811100,Summary,"1,019.00",0.6,100,"1,040.60",0.6,100,21.6,2.1,421,4
+Automotive mechanical and electrical repair and maintenance,811110,Line Item,437.2,0.3,100,444.3,0.3,100,7.1,1.6,422,5
+"Automotive body, paint, interior, and glass repair",811120,Line Item,299.4,0.2,100,307,0.2,100,7.6,2.5,423,5
+Other automotive repair and maintenance,811190,Line Item,282.4,0.2,100,289.3,0.2,100,6.9,2.4,424,5
+Electronic and precision equipment repair and maintenance,811200,Line Item,105.8,0.1,100,108,0.1,100,2.2,2.1,425,4
+Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,811300,Line Item,241.9,0.1,100,270.1,0.2,100,28.2,11.7,426,4
+Personal and household goods repair and maintenance,811400,Line Item,86.1,0.1,100,88.5,0.1,100,2.4,2.7,427,4
+Personal and laundry services,812000,Summary,"1,535.70",0.9,100,"1,687.60",1,100,151.9,9.9,428,3
+Personal care services,812100,Line Item,732.7,0.4,100,800,0.5,100,67.3,9.2,429,4
+Death care services,812200,Line Item,138.2,0.1,100,139.5,0.1,100,1.3,1,430,4
+Drycleaning and laundry services,812300,Line Item,260.5,0.2,100,270.6,0.2,100,10.1,3.9,431,4
+Other personal services,812900,Line Item,404.3,0.2,100,477.5,0.3,100,73.2,18.1,432,4
+"Religious, grantmaking, civic, professional, and similar organizations",813000,Summary,"2,837.20",1.7,100,"2,910.30",1.7,100,73.1,2.6,433,3
+Grantmaking and giving services and social advocacy organizations,8132-3,Summary,470.8,0.3,100,505.8,0.3,100,35,7.4,435,4
+Grantmaking and giving services,813200,Line Item,196.1,0.1,100,209.4,0.1,100,13.3,6.8,436,5
+Social advocacy organizations,813300,Line Item,274.7,0.2,100,296.4,0.2,100,21.7,7.9,437,5
+"Civic, social, professional, and similar organizations",8134-9,Summary,816.7,0.5,100,844.8,0.5,100,28.1,3.4,438,4
+Civic and social organizations,813400,Line Item,345.8,0.2,100,366.7,0.2,100,20.9,6,439,5
+"Business, professional, labor, political, and similar organizations",813900,Summary,470.9,0.3,100,478.2,0.3,100,7.3,1.5,440,5
+Labor unions and similar labor organizations,813930,Line Item,108.9,0.1,100,106,0.1,100,-2.9,-2.6,441,6
+Private households,814000,Line Item,672.2,0.4,100,674.8,0.4,100,2.6,0.4,443,3
+Government,900000,Summary,"11,112.50",6.6,100,"11,280.80",6.5,100,168.3,1.5,444,2
+Federal government,910000,Summary,"2,925.10",1.7,100,"2,930.20",1.7,100,5.1,0.2,445,3
+Postal service,491000,Line Item,604.3,0.4,100,580,0.3,100,-24.3,-4,446,4
+"Federal government, excluding postal service",999100,Line Item,"2,320.80",1.4,100,"2,350.20",1.3,100,29.4,1.3,447,4
+"State and local government, excluding education and hospitals",9992-3,Summary,"8,187.40",4.9,100,"8,350.60",4.8,100,163.2,2,448,3
+"State government, excluding education and hospitals",999200,Line Item,"2,296.10",1.4,100,"2,321.50",1.3,100,25.4,1.1,449,4
+"Local government, excluding education and hospitals",999300,Line Item,"5,891.30",3.5,100,"6,029.20",3.5,100,137.9,2.3,450,4
