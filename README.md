@@ -27,7 +27,7 @@
   - Bar graph showing top paying industries
 
 - **Questions:**
-  - What skills are in the highest demand for analytics? (Amanda Delgado)
+  - What skills are in the highest demand for data science? (Amanda Delgado)
   - Which industries are in the most demand in the United States? (Latifah Jones)
   - What locations are hiring the most? (Floris Cash)
   - Comparing market trends overtime? (Sebastian Andreu)
