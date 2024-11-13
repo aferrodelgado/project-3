@@ -70,8 +70,13 @@ The purpose of this project is to equip job seekers, industry professionals, and
 
 **4. Comparing market trends overtime?** (Sebastian Andreu)
 
-**5. Does experience level influence job postings?** (Luc Atchley)
+**5. Does experience level influence job postings?** (Luc Atchley) 
   - Analysis from Salary by Job Title and Country dataset
 
+<br><br> <!-- Add two line breaks after the image -->
 
+Utilized Xpert Learning Assistant and Chat GPT for assistance in coding and resolving errors.
 
+- **Additional References:**
+  - [Jupyter Widgets 8.1.1 Documentation > How-to Guides > Widget List](https://ipywidgets.readthedocs.io/en/8.1.2/examples/Widget%20List.html)
+  - [Google Search: tutorial adding multiple widgets to jupyter notebook plotly express graph](https://www.google.com/search?q=tutorial+adding+multiple+widgets+to+jupyter+notebook+plotly+express+graph&oq=tutorial+adding+multiple+widgets+to+jupyter+notebook+plotly+express+graph&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCjIwMDg5ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8)
