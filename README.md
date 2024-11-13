@@ -82,5 +82,7 @@ Throughout the "Analysis of Job Market Trends in the United States" project, spe
   Utilized Xpert Learning Assistant and Chat GPT for assistance in coding and resolving errors.
 
 - **Additional References:**
+  - [Plotly Express in Python](https://plotly.com/python/plotly-express/)
+  - [Interactive Graphing and Crossfiltering | Dash for Python](https://plotly.com/python/plotly-express/)
   - [Jupyter Widgets 8.1.1 Documentation > How-to Guides > Widget List](https://ipywidgets.readthedocs.io/en/8.1.2/examples/Widget%20List.html)
-  - [Google Search: tutorial adding multiple widgets to jupyter notebook plotly express graph](https://www.google.com/search?q=tutorial+adding+multiple+widgets+to+jupyter+notebook+plotly+express+graph&oq=tutorial+adding+multiple+widgets+to+jupyter+notebook+plotly+express+graph&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCjIwMDg5ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8)
+  - [Google Search AI Overview: tutorial adding multiple widgets to jupyter notebook plotly express graph](https://www.google.com/search?q=tutorial+adding+multiple+widgets+to+jupyter+notebook+plotly+express+graph&oq=tutorial+adding+multiple+widgets+to+jupyter+notebook+plotly+express+graph&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCjIwMDg5ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8)
