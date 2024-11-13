@@ -39,7 +39,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
 
 - **Questions:**
   
-  **1. What skills are in the highest demand for data science?** (Amanda Delgado)
+    **1. What skills are in the highest demand for data science?** (Amanda Delgado)
    - Analysis from the Data Science and Job Postings & Skills (2024) dataset
     - Left: Sunburst graph showing top 10 skills by top 10 locations
     - Right: Sunburst graph filtered down to show top 3 job skills by top 10 locations.
@@ -63,19 +63,21 @@ The purpose of this project is to equip job seekers, industry professionals, and
     - Chicago, IL: Also a top location for Python and SQL
     - Washington, DC: Notable demand for Machine Learning
 
-**2. Which industries are in the most demand in the United States?** (Latifah Jones)
- - Analysis from Bureau of Labor Statistics datasets
+  **2. Which industries are in the most demand in the United States?** (Latifah Jones)
+   - Analysis from Bureau of Labor Statistics datasets
+    
+  **3. What locations are hiring the most?** (Floris Cash)
   
-**3. What locations are hiring the most?** (Floris Cash)
-
-**4. Comparing market trends overtime?** (Sebastian Andreu)
-
-**5. Does experience level influence job postings?** (Luc Atchley) 
-  - Analysis from Salary by Job Title and Country dataset
-
+  **4. Comparing market trends overtime?** (Sebastian Andreu)
+  
+  **5. Does experience level influence job postings?** (Luc Atchley) 
+    - Analysis from Salary by Job Title and Country dataset
 <br><br> <!-- Add two line breaks after the image -->
+- **Ethical Considerations:**
+Throughout the "Analysis of Job Market Trends in the United States" project, special attention has been given to ensure the ethical use of data and transparency in the analysis process. The project exclusively utilizes publicly available data sources and does not include any personally identifiable information. In presenting trends and insights, we avoid using biased interpretations to ensure our findings are accurate and impartial. The results of this analysis are shared in a manner that respects the diversity of industries and professions, without reinforcing harmful stereotypes or biases. Ethical principles of data integrity and fairness have been maintained to the expected standards.
 
-Utilized Xpert Learning Assistant and Chat GPT for assistance in coding and resolving errors.
+
+  Utilized Xpert Learning Assistant and Chat GPT for assistance in coding and resolving errors.
 
 - **Additional References:**
   - [Jupyter Widgets 8.1.1 Documentation > How-to Guides > Widget List](https://ipywidgets.readthedocs.io/en/8.1.2/examples/Widget%20List.html)
