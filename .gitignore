@@ -1,7 +1,12 @@
 # Byte-compiled / optimized / DLL files
+.DS_Store
+config.py
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Adding config.py file.
+api_keys.py
 
 # C extensions
 *.so
