@@ -72,8 +72,9 @@ The purpose of this project is to equip job seekers, industry professionals, and
   
   **4. Comparing market trends overtime?** (Sebastian Andreu)
   
-  **5. Does experience level influence job postings?** (Luc Atchley) 
-    - Analysis from Salary by Job Title and Country dataset
+  **5. Does experience level influence job postings?** (Luc Atchley)
+   - Analysis from Salary by Job Title and Country dataset
+    
 <br><br> <!-- Add two line breaks after the image -->
 - **Ethical Considerations:**
 Throughout the "Analysis of Job Market Trends in the United States" project, special attention has been given to ensure the ethical use of data and transparency in the analysis process. The project exclusively utilizes publicly available data sources and does not include any personally identifiable information. In presenting trends and insights, we avoid using biased interpretations to ensure our findings are accurate and impartial. The results of this analysis are shared in a manner that respects the diversity of industries and professions, without reinforcing harmful stereotypes or biases. Ethical principles of data integrity and fairness have been maintained to the expected standards.
