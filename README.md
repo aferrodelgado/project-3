@@ -20,41 +20,42 @@ The "Analysis of Job Market Trends in the United States" project aims to explore
 - **Purpose & Objectives:**
 The purpose of this project is to equip job seekers, industry professionals, and businesses with actionable insights into the U.S. job market landscape. By leveraging data analytics, the project will address the following key questions:
 
-1. What skills are in the highest demand for data science?
-   - Identify the top skills required by employers for data science roles, such as programming languages, machine learning techniques, and data visualization tools.
+  1. What skills are in the highest demand for data science?
+     - Identify the top skills required by employers for data science roles, such as programming languages, machine learning techniques, and data visualization tools.
+    
+  2. Which industries are in the most demand?
+     - Analyze which sectors are driving job growth and have the highest need for data science expertise, such as healthcare, finance, or technology.
   
-2. Which industries are in the most demand?
-   - Analyze which sectors are driving job growth and have the highest need for data science expertise, such as healthcare, finance, or technology.
-
-3. What locations are hiring the most?
-   - Pinpoint geographical areas with the highest concentration of job opportunities, highlighting major tech hubs and emerging markets.
-
-4. Comparing market trends over time:
-   - Investigate how job market trends have evolved, tracking changes in skill demand and industry focus over time to identify emerging opportunities.
-
-5. Does experience level influence job postings?
-   - Examine whether experience requirements differ significantly across job postings, exploring how seniority impacts the availability and distribution of roles.
+  3. What locations are hiring the most?
+     - Pinpoint geographical areas with the highest concentration of job opportunities, highlighting major tech hubs and emerging markets.
+  
+  4. Comparing market trends over time:
+     - Investigate how job market trends have evolved, tracking changes in skill demand and industry focus over time to identify emerging opportunities.
+  
+  5. Does experience level influence job postings?
+     - Examine whether experience requirements differ significantly across job postings, exploring how seniority impacts the availability and distribution of roles.
 
 - **Questions:**
-  - What skills are in the highest demand for data science? (Amanda Delgado)
+1. What skills are in the highest demand for data science? (Amanda Delgado)
     - Sunburst graph showing top 3 job skills by top 10 locations.
     <br><br> <!-- Add two line breaks before the image -->
     <img width="484" alt="Top 3 Job Skills   Location" src="https://github.com/user-attachments/assets/04c1a0d5-9b85-46f9-aac2-7bbeed097e66">
     <br><br> <!-- Add two line breaks after the image -->
-  - Top 3 Skills in Demand:
+   Top 3 Skills in Demand:
     - Python 21.9%
     - SQL 20.1%
     - Machine Learning 9.4%
-  - Top Cities for These Skills: 
+      
+   Top Cities for These Skills: 
     - New York, NY: Strong demand for Python and SQL
     - San Francisco, CA: Strong demand for Python and SQL
     - Chicago, IL: Also a top location for Python and SQL
     - Washington, DC: Notable demand for Machine Learning
 
-  - Which industries are in the most demand in the United States? (Latifah Jones)
-  - What locations are hiring the most? (Floris Cash)
-  - Comparing market trends overtime? (Sebastian Andreu)
-  - Does experience level influence job postings? (Luc Atchley)
+2. Which industries are in the most demand in the United States? (Latifah Jones)
+3. What locations are hiring the most? (Floris Cash)
+4. Comparing market trends overtime? (Sebastian Andreu)
+5. Does experience level influence job postings? (Luc Atchley)
 
 
 
