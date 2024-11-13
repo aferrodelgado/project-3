@@ -13,6 +13,8 @@
   - [BEA Interactive Data Application](https://apps.bea.gov/iTable/?reqid=19&step=2&isuri=1&1921=survey&_gl=1*txxocr*_ga*MTM5OTc3ODg0Ny4xNzMwNDIyMDU2*_ga_J4698JNNFT*MTczMDQyMjA1Ni4xLjEuMTczMDQyMjA2My41My4wLjA.#eyJhcHBpZCI6MTksInN0ZXBzIjpbMSwyLDNdLCJkYXRhIjpbWyJDYXRlZ29yaWVzIiwiU3VydmV5Il0sWyJOSVBBX1RhYmxlX0xpc3QiLCIyMDEiXV19)
   - [Bureau of Labor Statistics](https://data.bls.gov/projections/nationalMatrix?queryParams=00-0000&ioType=o)
   - [Bureau of Labor Statistics](https://www.bls.gov/charts/state-employment-and-unemployment/industry-employment-by-state.htm)
+  - [Salary by Job Title and Country](https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country)
+<br><br> <!-- Add two line breaks -->
     
 - **Project Overview:**
 The "Analysis of Job Market Trends in the United States" project aims to explore and understand the evolving dynamics of the job market, with a specific focus on the data science field. As the demand for data-driven decision-making continues to rise, organizations are increasingly seeking professionals with specialized skills. This project will provide an in-depth analysis of the job market, examining key factors such as high-demand skills, industry trends, geographical hiring hotspots, and the influence of experience level on job postings.
@@ -36,26 +38,36 @@ The purpose of this project is to equip job seekers, industry professionals, and
      - Examine whether experience requirements differ significantly across job postings, exploring how seniority impacts the availability and distribution of roles.
 
 - **Questions:**
-1. What skills are in the highest demand for data science? (Amanda Delgado)
+  
+  **1. What skills are in the highest demand for data science?** (Amanda Delgado)
+   - Analysis from the Data Science and Job Postings & Skills (2024) dataset
     - Sunburst graph showing top 3 job skills by top 10 locations.
     <br><br> <!-- Add two line breaks before the image -->
     <img width="484" alt="Top 3 Job Skills   Location" src="https://github.com/user-attachments/assets/04c1a0d5-9b85-46f9-aac2-7bbeed097e66">
     <br><br> <!-- Add two line breaks after the image -->
+
    Top 3 Skills in Demand:
+
     - Python 21.9%
     - SQL 20.1%
     - Machine Learning 9.4%
       
    Top Cities for These Skills: 
+
     - New York, NY: Strong demand for Python and SQL
     - San Francisco, CA: Strong demand for Python and SQL
     - Chicago, IL: Also a top location for Python and SQL
     - Washington, DC: Notable demand for Machine Learning
 
-2. Which industries are in the most demand in the United States? (Latifah Jones)
-3. What locations are hiring the most? (Floris Cash)
-4. Comparing market trends overtime? (Sebastian Andreu)
-5. Does experience level influence job postings? (Luc Atchley)
+**2. Which industries are in the most demand in the United States?** (Latifah Jones)
+ - Analysis from Bureau of Labor Statistics datasets
+  
+**3. What locations are hiring the most?** (Floris Cash)
+
+**4. Comparing market trends overtime?** (Sebastian Andreu)
+
+**5. Does experience level influence job postings?** (Luc Atchley)
+  - Analysis from Salary by Job Title and Country dataset
 
 
 
