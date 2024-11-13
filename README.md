@@ -41,9 +41,13 @@ The purpose of this project is to equip job seekers, industry professionals, and
   
   **1. What skills are in the highest demand for data science?** (Amanda Delgado)
    - Analysis from the Data Science and Job Postings & Skills (2024) dataset
-    - Sunburst graph showing top 3 job skills by top 10 locations.
+    - Left: Sunburst graph showing top 10 skills by top 10 locations
+    - Right: Sunburst graph filtered down to show top 3 job skills by top 10 locations.
     <br><br> <!-- Add two line breaks before the image -->
-    <img width="484" alt="Top 3 Job Skills   Location" src="https://github.com/user-attachments/assets/04c1a0d5-9b85-46f9-aac2-7bbeed097e66">
+    <p align="center">
+    <img src="https://github.com/user-attachments/assets/f09c8b47-24d7-4eaa-958f-d861ca7dcefe" alt="Data Science Job Postings Skills 2024" width="400"/>
+    <img src="https://github.com/user-attachments/assets/20c2005c-8d62-423e-b5c5-7038b4743ccb" alt="Top 3 Data Science Skills" width="400"/>
+</p>
     <br><br> <!-- Add two line breaks after the image -->
 
    Top 3 Skills in Demand:
