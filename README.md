@@ -75,15 +75,15 @@ The purpose of this project is to equip job seekers, industry professionals, and
   **5. Does experience level influence job postings?** (Luc Atchley)
    - Analysis from Salary by Job Title and Country dataset
     
-<br><br> <!-- Add two line breaks after the image -->
+<br><br> <!-- Add two line breaks -->
 - **Ethical Considerations:**
 Throughout the "Analysis of Job Market Trends in the United States" project, special attention has been given to ensure the ethical use of data and transparency in the analysis process. The project exclusively utilizes publicly available data sources and does not include any personally identifiable information. In presenting trends and insights, we avoid using biased interpretations to ensure our findings are accurate and impartial. The results of this analysis are shared in a manner that respects the diversity of industries and professions, without reinforcing harmful stereotypes or biases. Ethical principles of data integrity and fairness have been maintained to the expected standards.
-
-
-  Utilized Xpert Learning Assistant and Chat GPT for assistance in coding and resolving errors.
 
 - **Additional References:**
   - [Plotly Express in Python](https://plotly.com/python/plotly-express/)
   - [Interactive Graphing and Crossfiltering | Dash for Python](https://plotly.com/python/plotly-express/)
   - [Jupyter Widgets 8.1.1 Documentation > How-to Guides > Widget List](https://ipywidgets.readthedocs.io/en/8.1.2/examples/Widget%20List.html)
   - [Google Search AI Overview: tutorial adding multiple widgets to jupyter notebook plotly express graph](https://www.google.com/search?q=tutorial+adding+multiple+widgets+to+jupyter+notebook+plotly+express+graph&oq=tutorial+adding+multiple+widgets+to+jupyter+notebook+plotly+express+graph&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCjIwMDg5ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8)
+<br><br> <!-- Add two line breaks -->
+
+Utilized Xpert Learning Assistant and Chat GPT for assistance in coding and resolving errors.
