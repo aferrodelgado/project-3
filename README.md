@@ -45,8 +45,8 @@ The purpose of this project is to equip job seekers, industry professionals, and
     - Right: Sunburst graph filtered down to show top 3 job skills by top 10 locations.
     <br><br> <!-- Add two line breaks before the image -->
     <p align="center">
-    <img src="https://github.com/user-attachments/assets/f09c8b47-24d7-4eaa-958f-d861ca7dcefe" alt="Data Science Job Postings Skills 2024" width="400"/>
-    <img src="https://github.com/user-attachments/assets/20c2005c-8d62-423e-b5c5-7038b4743ccb" alt="Top 3 Data Science Skills" width="400"/>
+    <img src="https://github.com/user-attachments/assets/f09c8b47-24d7-4eaa-958f-d861ca7dcefe" alt="Data Science Job Postings Skills 2024" width="300"/>
+    <img src="https://github.com/user-attachments/assets/20c2005c-8d62-423e-b5c5-7038b4743ccb" alt="Top 3 Data Science Skills" width="300"/>
 </p>
     <br><br> <!-- Add two line breaks after the image -->
 
