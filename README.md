@@ -36,6 +36,8 @@ The purpose of this project is to equip job seekers, industry professionals, and
   
   5. Does experience level influence job postings?
      - Examine whether experience requirements differ significantly across job postings, exploring how seniority impacts the availability and distribution of roles.
+<br><br> <!-- Add two line breaks -->
+- **Instructions: How to Use and Interact with Project**
 
 - **Questions:**
   
