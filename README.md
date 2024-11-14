@@ -71,21 +71,47 @@ The purpose of this project is to equip job seekers, industry professionals, and
     - Chicago, IL: Also a top location for Python and SQL
     - Washington, DC: Notable demand for Machine Learning
   <br><br> <!-- Add two line breaks after the images -->
+
+  
   **2. Which industries are in the most demand in the United States?** (Latifah Jones)
   >Analysis comes from Bureau of Labor Statistics datasets (x2)
 
   >Visualizations come from the Industry_Demand_per_state.ipynb
+  - Interactive map highlights the top 3 industries in demand for each state
   <!-- Add a blank line to end the blockquote before inserting images -->
 
   <img width="1300" alt="Industry_demand per US State" src="https://github.com/user-attachments/assets/d7b41e53-0b6d-4649-b023-5bbf1b7bdf74">
 
   <br><br> <!-- Add two line breaks after the images -->
 
-  
+ Industries in Demand:
+
+    - Correspond to sectors experiencing growth or increased needs, leading to more job opportunities.
+
+ Example Insight: 
+
+    - If 'Healthcare' is a high-demand industry in multiple states, it suggests that healthcare facilities in those areas are actively hiring to meet increasing demand.
+
+  Value for Job Seekers:
+
+    - The map can help job seekers align their career paths with regional industry needs, offering insights into areas with economic growth.
+
+  Limitation: 
+
+    - The map highlights broad industry demand rather than specific job titles or individual job openings.
+    
+   <br><br> <!-- Add two line breaks-->
   **3. What locations are hiring the most?** (Floris Cash)
+  >Analysis comes from .... dataset
+
+  >Visualizations come from .... .ipynb
+   <!-- Add a blank line to end the blockquote before inserting images -->
+
+  <img src="https://github.com/user-attachments/assets/7189c970-3824-43cd-80df-86241fe10caa" alt="Floris_Job Postings by State" width="600" height="400"/>
+   <br><br> <!-- Add two line breaks after the images -->
   
   **4. Comparing market trends overtime?** (Sebastian Andreu)
-  >Analysis from Exploring Salary Trends in Data Science Careers
+  >Analysis comes from Exploring Salary Trends in Data Science Careers dataset
 
   >Visualizations come from Data_trend.ipynb
   <!-- Add a blank line to end the blockquote before inserting images -->
