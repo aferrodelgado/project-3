@@ -35,8 +35,8 @@ The purpose of this project is to equip job seekers, industry professionals, and
   4. Comparing salary trends over time:
      - Investigate how salary trends in data science careers have evolved, comparing experience level and onsite versus remote work over time to identify emerging opportunities.
   
-  5. Does experience level influence job postings?
-     - Examine whether experience requirements differ significantly across job postings, exploring how seniority impacts the availability and distribution of roles.
+  5. What factors influence salary in todays job market?
+     
 <br><br> <!-- Add two line breaks -->
 - **Instructions: How to Use and Interact with Project:**
   - Datasets used for analysis are linked in the Datasets section above and also listed under their cooresponding questions below.
@@ -129,7 +129,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
 
 
   <br><br> <!-- Add two line breaks-->
-  **5. Does experience level influence job postings?** (Luc Atchley)
+  **5. What factors influence salary in todays job market?** (Luc Atchley)
   >Analysis comes from Salary by Job Title and Country dataset
   
   > Visualizations come from US_Salary_Analysis.ipynb
@@ -141,6 +141,19 @@ The purpose of this project is to equip job seekers, industry professionals, and
   </div>
   <br><br> <!-- Add two line breaks after the images -->
 
+  **Age:**
+  - The average salary difference between a 25-year-old and a 50-year-old is nearly $150,000.
+
+  **Experience:**
+  - Data shows that individuals with more job experience are significantly more likely to earn higher salaries.
+    
+  **Gender:**
+  - Males earn, on average, 15% more than females in the current job market.
+
+  **Education:**
+  - Workers with only a high school diploma earn around $30,000 annually, while those with a PhD earn over $100,000 on average.
+  
+<br><br> <!-- Add two line breaks-->
 - **Ethical Considerations:**
 Throughout the "Analysis of Job Market Trends in the United States" project, special attention has been given to ensure the ethical use of data and transparency in the analysis process. The project exclusively utilizes publicly available data sources and does not include any personally identifiable information. In presenting trends and insights, we avoid using biased interpretations to ensure our findings are accurate and impartial. The results of this analysis are shared in a manner that respects the diversity of industries and professions, without reinforcing harmful stereotypes or biases. Ethical principles of data integrity and fairness have been maintained to the expected standards.
 
