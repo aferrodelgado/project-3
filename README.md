@@ -11,8 +11,8 @@
   - [17M+ Company Dataset](https://www.kaggle.com/datasets/mfrye0/bigpicture-company-dataset)
   - [BEA Interactive Data Application](https://apps.bea.gov/iTable/?reqid=19&step=2&isuri=1&1921=survey&_gl=1*txxocr*_ga*MTM5OTc3ODg0Ny4xNzMwNDIyMDU2*_ga_J4698JNNFT*MTczMDQyMjA1Ni4xLjEuMTczMDQyMjA2My41My4wLjA.#eyJhcHBpZCI6MTksInN0ZXBzIjpbMSwyLDNdLCJkYXRhIjpbWyJDYXRlZ29yaWVzIiwiU3VydmV5Il0sWyJOSVBBX1RhYmxlX0xpc3QiLCIxNzkiXV19)
   - [BEA Interactive Data Application](https://apps.bea.gov/iTable/?reqid=19&step=2&isuri=1&1921=survey&_gl=1*txxocr*_ga*MTM5OTc3ODg0Ny4xNzMwNDIyMDU2*_ga_J4698JNNFT*MTczMDQyMjA1Ni4xLjEuMTczMDQyMjA2My41My4wLjA.#eyJhcHBpZCI6MTksInN0ZXBzIjpbMSwyLDNdLCJkYXRhIjpbWyJDYXRlZ29yaWVzIiwiU3VydmV5Il0sWyJOSVBBX1RhYmxlX0xpc3QiLCIyMDEiXV19)
-  - [Bureau of Labor Statistics](https://data.bls.gov/projections/nationalMatrix?queryParams=00-0000&ioType=o)
-  - [Bureau of Labor Statistics](https://www.bls.gov/charts/state-employment-and-unemployment/industry-employment-by-state.htm)
+  - [Bureau of Labor Statistics - Employment Projections](https://data.bls.gov/projections/nationalMatrix?queryParams=00-0000&ioType=o)
+  - [Bureau of Labor Statistics - Industry Employment by State](https://www.bls.gov/charts/state-employment-and-unemployment/industry-employment-by-state.htm)
   - [Salary by Job Title and Country](https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country)
   - [Exploring Salary Trends in Data Science Careers](https://www.kaggle.com/code/yusufdelikkaya/exploring-salary-trends-in-data-science-careers)
 <br><br> <!-- Add two line breaks -->
