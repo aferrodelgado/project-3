@@ -26,7 +26,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
   1. What skills are in the highest demand for data science?
      - Identify the top skills required by employers for data science roles, such as programming languages, machine learning techniques, and data visualization tools.
     
-  2. Which industries are in the most demand?
+  2. Which industries are in most demand?
      - Analyze which sectors are driving job growth and have the highest need, such as healthcare, finance, or technology.
   
   3. What locations are hiring the most?
@@ -72,7 +72,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
   <br><br> <!-- Add two line breaks after the images -->
 
   
-  **2. Which industries are in the most demand in the United States?** (Latifah Jones)
+  **2. Which industries are in most demand?** (Latifah Jones)
   >Analysis comes from Bureau of Labor Statistics datasets (x2)
 
   >Visualizations come from the Industry_Demand_per_state.ipynb
