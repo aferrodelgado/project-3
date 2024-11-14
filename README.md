@@ -42,7 +42,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
   - Datasets used for analysis are linked in the Datasets section above and also listed under their cooresponding questions below.
   - .csv files from the datasets imported into PostgreSQL can be found in the "Database" folder, along with the final .sql file.
   - .ipynb files used for coding analysis and creation of interactive visualizations can be found in the "Analysis" folder and are listed under their cooresponding questions below.
-
+<br><br> <!-- Add two line breaks -->
 - **Questions:**
   
     **1. What skills are in the highest demand for data science?** (Amanda Delgado)
@@ -70,12 +70,18 @@ The purpose of this project is to equip job seekers, industry professionals, and
     - San Francisco, CA: Strong demand for Python and SQL
     - Chicago, IL: Also a top location for Python and SQL
     - Washington, DC: Notable demand for Machine Learning
-
+  <br><br> <!-- Add two line breaks after the images -->
   **2. Which industries are in the most demand in the United States?** (Latifah Jones)
   >Analysis comes from Bureau of Labor Statistics datasets (x2)
 
   >Visualizations come from the Industry_Demand_per_state.ipynb
-    
+  <!-- Add a blank line to end the blockquote before inserting images -->
+
+  <img width="1300" alt="Industry_demand per US State" src="https://github.com/user-attachments/assets/d7b41e53-0b6d-4649-b023-5bbf1b7bdf74">
+
+  <br><br> <!-- Add two line breaks after the images -->
+
+  
   **3. What locations are hiring the most?** (Floris Cash)
   
   **4. Comparing market trends overtime?** (Sebastian Andreu)
@@ -83,7 +89,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
 
   >Visualizations come from Data_trend.ipynb
   <!-- Add a blank line to end the blockquote before inserting images -->
-   - Box plot graph shows average salary, based on experience level, in the data science field from 2020-2024 
+  - Box plot graph shows average salary, based on experience level, in the data science field from 2020-2024 
   
   <br><br> <!-- Add two line breaks after the images -->
   <img src="https://github.com/user-attachments/assets/0d1266e1-8dbb-461c-ac72-b606b5353877" alt="seb boxplot" width="700"/>
@@ -101,17 +107,20 @@ The purpose of this project is to equip job seekers, industry professionals, and
 
     - Average earnings have remained relatively stagnant over the years.
     - There are larger outliers in 2023 and 2024, indicating occasional spikes in earnings for some individuals.
-  
+
+  <br><br> <!-- Add two line breaks-->
   **5. Does experience level influence job postings?** (Luc Atchley)
   >Analysis comes from Salary by Job Title and Country dataset
   
   > Visualizations come from US_Salary_Analysis.ipynb
   <!-- Add a blank line to end the blockquote before inserting images -->
   
-  ![Salary VS Age](https://github.com/user-attachments/assets/bbe6e988-470c-4f54-864d-cae8c1633f87)
-  ![Race Salary percentage](https://github.com/user-attachments/assets/9d70b639-ade4-4afc-9daa-8ef30138b4ed)
+  <div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/user-attachments/assets/bbe6e988-470c-4f54-864d-cae8c1633f87" alt="Salary VS Age" width="500" height="300"/>
+    <img src="https://github.com/user-attachments/assets/9d70b639-ade4-4afc-9daa-8ef30138b4ed" alt="Race Salary Percentage" width="500" height="300"/>
+  </div>
   <br><br> <!-- Add two line breaks after the images -->
-  
+
 - **Ethical Considerations:**
 Throughout the "Analysis of Job Market Trends in the United States" project, special attention has been given to ensure the ethical use of data and transparency in the analysis process. The project exclusively utilizes publicly available data sources and does not include any personally identifiable information. In presenting trends and insights, we avoid using biased interpretations to ensure our findings are accurate and impartial. The results of this analysis are shared in a manner that respects the diversity of industries and professions, without reinforcing harmful stereotypes or biases. Ethical principles of data integrity and fairness have been maintained to the expected standards.
 
