@@ -1,6 +1,4 @@
-
-
-CREATE TABLE usa_job_skills (
+CREATE TABLE usa_top_job_skills (
 	Job_Title VARCHAR(300),
 	Company VARCHAR(100),
 	Job_Location VARCHAR(100),
@@ -11,7 +9,7 @@ CREATE TABLE usa_job_skills (
 	Position VARCHAR(100),
 	Job_Level VARCHAR(100),
 	Job_Type VARCHAR(50),
-	Job_Skills VARCHAR(10000)
+	Job_Skills VARCHAR(100)
 );
 
 CREATE TABLE Industry_Demand (
@@ -67,3 +65,18 @@ Create Table job_skills (
 	job_link VARCHAR(1000),
 	job_skills VARCHAR(10000)
 );
+
+CREATE TABLE data_science_salaries (
+	work_year INT,
+	experience_level VARCHAR(5),
+	exployment_type VARCHAR(5),
+	job_title VARCHAR(50),
+	salary INT,
+	salary_currency VARCHAR(5),
+	salary_in_usd INT,
+	employee_residence VARCHAR(5),
+	remote_ratio INT,
+	company_location VARCHAR(5),
+	company_size VARCHAR(3)
+);
+
