@@ -80,6 +80,9 @@ The purpose of this project is to equip job seekers, industry professionals, and
   <!-- Add a blank line to end the blockquote before inserting images -->
 
   <img width="1300" alt="Industry_demand per US State" src="https://github.com/user-attachments/assets/d7b41e53-0b6d-4649-b023-5bbf1b7bdf74">
+<br><br> <!-- Add two line breaks after the images -->
+
+  <img width="1606" alt="US_Industry_Employment_Growth" src="https://github.com/user-attachments/assets/d8d4d194-e802-4135-932e-26fcb488251e">
 
   <br><br> <!-- Add two line breaks after the images -->
   
@@ -126,6 +129,17 @@ The purpose of this project is to equip job seekers, industry professionals, and
   **Entry-Level Professionals:**
   - Average earnings have remained relatively stagnant over the years.
   - There are larger outliers in 2023 and 2024, indicating occasional spikes in earnings for some individuals.
+ <br><br> <!-- Add two line breaks after the images -->
+
+<!-- Use a flexbox container to display images side by side -->
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/user-attachments/assets/6703dffa-6d91-4150-9a9d-6680c58e3321" alt="seb sunburst" width="400"/>
+    <img src="https://github.com/user-attachments/assets/ae486cb5-c39f-4f74-9d7e-8f57aa45178b" alt="seb bar" width="400"/>
+</div>
+
+- Over 4 years the bar graph shows a lot more people work in office compared to remote.
+- The sunburst chart shows that senior level people make most of the work force, and their fields are data scientist, data engineering, and machine learning engineering.
+
 
 
   <br><br> <!-- Add two line breaks-->
