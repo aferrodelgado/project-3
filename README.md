@@ -82,12 +82,15 @@ The purpose of this project is to equip job seekers, industry professionals, and
   >Analysis from Exploring Salary Trends in Data Science Careers
 
   >Visualizations come from Data_trend.ipynb
+  <!-- Add a blank line to end the blockquote before inserting images -->
+
+  <img src="https://github.com/user-attachments/assets/0d1266e1-8dbb-461c-ac72-b606b5353877" alt="seb boxplot" width="700"/>
+  <br><br> <!-- Add two line breaks after the images -->
   
   **5. Does experience level influence job postings?** (Luc Atchley)
   >Analysis comes from Salary by Job Title and Country dataset
   
   > Visualizations come from US_Salary_Analysis.ipynb
-  
   <!-- Add a blank line to end the blockquote before inserting images -->
   
   ![Salary VS Age](https://github.com/user-attachments/assets/bbe6e988-470c-4f54-864d-cae8c1633f87)
