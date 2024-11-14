@@ -29,14 +29,20 @@ CREATE TABLE Industry_Demand (
     Government DECIMAL(10, 2)
 );
 
-CREATE TABLE Growth_Output_Per_Industry (
-    Industry_Description VARCHAR(200),
-    Sector VARCHAR(100),
-    NAICS_Code VARCHAR(50),
-    Output_2023 DECIMAL(10, 2),
-    Output_2033 DECIMAL(10, 2),
-    Employment_Change_Numeric DECIMAL(10, 2),
-    Compound_Annual_Rate_Change DECIMAL(5, 2)
+CREATE TABLE us_industry_demand_breakdown(	
+    Industry_Title VARCHAR(300),
+    Industry_Code VARCHAR(100),
+    Industry_Type VARCHAR(100),
+    Employment_2023 DECIMAL(10, 2),
+    Percent_of_Occupation_2023 DECIMAL(5, 2),
+    Percent_of_Industry_2023 DECIMAL(5, 2),
+    Employment_2033 DECIMAL(10, 2),
+    Percent_of_Occupation_2033 DECIMAL(5, 2),
+    Percent_of_Industry_2033 DECIMAL(5, 2),
+    Employment_Change DECIMAL(10, 2),
+    Employment_Percent_Change DECIMAL(5, 2),
+    Industry_Sort VARCHAR(50),
+    Display_Level VARCHAR(50)
 );
 
 Create Table usa_salary (
