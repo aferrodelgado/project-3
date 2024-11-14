@@ -50,7 +50,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
     
     >Visualizations come from the Data Science Job Postings & Skills 2024 Analysis.ipynb
     - Left: Sunburst graph showing top 10 skills by top 10 locations
-    - Right: Sunburst graph filtered down to show top 3 job skills by top 10 locations.
+    - Right: Sunburst graph filtered down to show top 3 job skills by top 10 locations
     <br><br> <!-- Add two line breaks before the image -->
     <p align="center">
     <img src="https://github.com/user-attachments/assets/f09c8b47-24d7-4eaa-958f-d861ca7dcefe" alt="Data Science Job Postings Skills 2024" width="300"/>
@@ -83,9 +83,24 @@ The purpose of this project is to equip job seekers, industry professionals, and
 
   >Visualizations come from Data_trend.ipynb
   <!-- Add a blank line to end the blockquote before inserting images -->
-
+   - Box plot graph shows average salary, based on experience level, in the data science field from 2020-2024 
+  
+  <br><br> <!-- Add two line breaks after the images -->
   <img src="https://github.com/user-attachments/assets/0d1266e1-8dbb-461c-ac72-b606b5353877" alt="seb boxplot" width="700"/>
   <br><br> <!-- Add two line breaks after the images -->
+ 
+ 2020 (Covid Years):
+
+    - Executives and senior-level professionals earned more on average compared to previous years.
+    
+ Mid-Level Professionals:
+
+    - Average earnings have been steadily increasing each year from 2020 to 2024.
+
+ Entry-Level Professionals:
+
+    - Average earnings have remained relatively stagnant over the years.
+    - There are larger outliers in 2023 and 2024, indicating occasional spikes in earnings for some individuals.
   
   **5. Does experience level influence job postings?** (Luc Atchley)
   >Analysis comes from Salary by Job Title and Country dataset
