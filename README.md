@@ -27,7 +27,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
      - Identify the top skills required by employers for data science roles, such as programming languages, machine learning techniques, and data visualization tools.
     
   2. Which industries are in the most demand?
-     - Analyze which sectors are driving job growth and have the highest need for data science expertise, such as healthcare, finance, or technology.
+     - Analyze which sectors are driving job growth and have the highest need, such as healthcare, finance, or technology.
   
   3. What locations are hiring the most?
      - Pinpoint geographical areas with the highest concentration of job opportunities, highlighting major tech hubs and emerging markets.
@@ -41,7 +41,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
 - **Instructions: How to Use and Interact with Project:**
   - Datasets used for analysis are linked in the Datasets section above and also listed under their cooresponding questions below.
   - .csv files from the datasets imported into PostgreSQL can be found in the "Database" folder, along with the final .sql file.
-  - .ipynb files used for coding analysis and creation on interactive visualizations can be found in the "Analysis" folder and are listed under their cooresponding questions below.
+  - .ipynb files used for coding analysis and creation of interactive visualizations can be found in the "Analysis" folder and are listed under their cooresponding questions below.
 
 - **Questions:**
   
@@ -72,15 +72,21 @@ The purpose of this project is to equip job seekers, industry professionals, and
     - Washington, DC: Notable demand for Machine Learning
 
   **2. Which industries are in the most demand in the United States?** (Latifah Jones)
-   - Analysis from Bureau of Labor Statistics datasets
+  >Analysis comes from Bureau of Labor Statistics datasets (x2)
+
+  >Visualizations come from the Industry_Demand_per_state.ipynb
     
   **3. What locations are hiring the most?** (Floris Cash)
   
   **4. Comparing market trends overtime?** (Sebastian Andreu)
-   - Analysis from Exploring Salary Trends in Data Science Careers
+  >Analysis from Exploring Salary Trends in Data Science Careers
+
+  >Visualizations come from Data_trend.ipynb
   
   **5. Does experience level influence job postings?** (Luc Atchley)
-   - Analysis from Salary by Job Title and Country dataset
+  >Analysis comes from Salary by Job Title and Country dataset
+
+  >Visualizations come from US_Salary_Analysis.ipynb
     
 <br><br> <!-- Add two line breaks -->
 - **Ethical Considerations:**
