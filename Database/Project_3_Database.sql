@@ -1,23 +1,4 @@
-CREATE TABLE Job_Experience_Table (
-	Job_Id BIGINT,
-	Experience VARCHAR(30),
-	Qualification VARCHAR(20),
-	Salary_Range VARCHAR(20),
-	location VARCHAR(50),
-	Country CHAR(3),
-	latitude INT,
-	longitude INT,
-	Company_Size INT,
-	Job_Title VARCHAR(50),
-	Role VARCHAR(100),
-	Company VARCHAR(200),
-	Min_experience INT,
-	Max_experience INT,
-	Average_experience DECIMAL(10, 2),
-	Average_Salary DECIMAL(10, 2)
-);
 
-SELECT * FROM Job_Experience_Table LIMIT 100;
 
 CREATE TABLE usa_job_skills (
 	Job_Title VARCHAR(300),
@@ -35,9 +16,7 @@ CREATE TABLE usa_job_skills (
 
 CREATE TABLE Industry_Demand (
     State VARCHAR(50),
-    Total_Nonfarm DECIMAL(10, 2),
     Mining_Logging DECIMAL(10, 2),
-    Mining_Logging_Construction DECIMAL(10, 2),
     Construction DECIMAL(10, 2),
     Manufacturing DECIMAL(10, 2),
     Trade_Transportation_Utilities DECIMAL(10, 2),
@@ -58,4 +37,27 @@ CREATE TABLE Growth_Output_Per_Industry (
     Output_2033 DECIMAL(10, 2),
     Employment_Change_Numeric DECIMAL(10, 2),
     Compound_Annual_Rate_Change DECIMAL(5, 2)
+);
+
+Create Table usa_salary (
+	Age INT,
+	Gender VARCHAR(6),
+	Education VARCHAR(30),
+	Job_Title VARCHAR(50),
+	Years_of_Experience INT,
+	Salary INT,
+	Country CHAR(3),
+	Race VARCHAR(30),
+	Senior INT
+);
+
+Create Table state_coordinates (
+	state VARCHAR(30),
+	Latitude NUMERIC(10, 7),
+	Longitude NUMERIC(10, 7)
+);
+
+Create Table job_skills (
+	job_link VARCHAR(1000),
+	job_skills VARCHAR(10000)
 );
