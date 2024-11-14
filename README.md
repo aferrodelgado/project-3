@@ -14,6 +14,7 @@
   - [Bureau of Labor Statistics](https://data.bls.gov/projections/nationalMatrix?queryParams=00-0000&ioType=o)
   - [Bureau of Labor Statistics](https://www.bls.gov/charts/state-employment-and-unemployment/industry-employment-by-state.htm)
   - [Salary by Job Title and Country](https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country)
+  - [Exploring Salary Trends in Data Science Careers](https://www.kaggle.com/code/yusufdelikkaya/exploring-salary-trends-in-data-science-careers)
 <br><br> <!-- Add two line breaks -->
     
 - **Project Overview:**
@@ -31,18 +32,23 @@ The purpose of this project is to equip job seekers, industry professionals, and
   3. What locations are hiring the most?
      - Pinpoint geographical areas with the highest concentration of job opportunities, highlighting major tech hubs and emerging markets.
   
-  4. Comparing market trends over time:
-     - Investigate how job market trends have evolved, tracking changes in skill demand and industry focus over time to identify emerging opportunities.
+  4. Comparing salary trends over time:
+     - Investigate how salary trends in data science careers have evolved, comparing experience level and onsite versus remote work over time to identify emerging opportunities.
   
   5. Does experience level influence job postings?
      - Examine whether experience requirements differ significantly across job postings, exploring how seniority impacts the availability and distribution of roles.
 <br><br> <!-- Add two line breaks -->
-- **Instructions: How to Use and Interact with Project**
+- **Instructions: How to Use and Interact with Project:**
+  - Datasets used for analysis are linked in the Datasets section above and also listed under their cooresponding questions below.
+  - .csv files from the datasets imported into PostgreSQL can be found in the "Database" folder, along with the final .sql file.
+  - .ipynb files used for coding analysis and creation on interactive visualizations can be found in the "Analysis" folder and are listed under their cooresponding questions below.
 
 - **Questions:**
   
     **1. What skills are in the highest demand for data science?** (Amanda Delgado)
-   - Analysis from the Data Science and Job Postings & Skills (2024) dataset
+    >Analysis comes from the Data Science and Job Postings & Skills (2024) dataset
+    
+    >Visualizations come from the Data Science Job Postings & Skills 2024 Analysis.ipynb
     - Left: Sunburst graph showing top 10 skills by top 10 locations
     - Right: Sunburst graph filtered down to show top 3 job skills by top 10 locations.
     <br><br> <!-- Add two line breaks before the image -->
@@ -71,6 +77,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
   **3. What locations are hiring the most?** (Floris Cash)
   
   **4. Comparing market trends overtime?** (Sebastian Andreu)
+   - Analysis from Exploring Salary Trends in Data Science Careers
   
   **5. Does experience level influence job postings?** (Luc Atchley)
    - Analysis from Salary by Job Title and Country dataset
