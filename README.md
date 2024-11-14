@@ -58,18 +58,17 @@ The purpose of this project is to equip job seekers, industry professionals, and
 </p>
     <br><br> <!-- Add two line breaks after the image -->
 
-   Top 3 Skills in Demand:
+  **Top 3 Skills in Demand:**
+  - Python: 21.9%
+  - SQL: 20.1%
+  - Machine Learning: 9.4%
+  
+  **Top Cities for These Skills:**
+  - New York, NY: Strong demand for Python and SQL
+  - San Francisco, CA: Strong demand for Python and SQL
+  - Chicago, IL: Also a top location for Python and SQL
+  - Washington, DC: Notable demand for Machine Learning
 
-    - Python 21.9%
-    - SQL 20.1%
-    - Machine Learning 9.4%
-      
-   Top Cities for These Skills: 
-
-    - New York, NY: Strong demand for Python and SQL
-    - San Francisco, CA: Strong demand for Python and SQL
-    - Chicago, IL: Also a top location for Python and SQL
-    - Washington, DC: Notable demand for Machine Learning
   <br><br> <!-- Add two line breaks after the images -->
 
   
@@ -83,22 +82,19 @@ The purpose of this project is to equip job seekers, industry professionals, and
   <img width="1300" alt="Industry_demand per US State" src="https://github.com/user-attachments/assets/d7b41e53-0b6d-4649-b023-5bbf1b7bdf74">
 
   <br><br> <!-- Add two line breaks after the images -->
+  
+  **Industries in Demand:**
+  - Correspond to sectors experiencing growth or increased needs, leading to more job opportunities.
+  
+  **Example Insight:**
+  - If 'Healthcare' is a high-demand industry in multiple states, it suggests that healthcare facilities in those areas are actively hiring to meet increasing demand.
+  
+  **Value for Job Seekers:**
+  - The map can help job seekers align their career paths with regional industry needs, offering insights into areas with economic growth.
+  
+  **Limitation:**
+  - The map highlights broad industry demand rather than specific job titles or individual job openings.
 
- Industries in Demand:
-
-    - Correspond to sectors experiencing growth or increased needs, leading to more job opportunities.
-
- Example Insight: 
-
-    - If 'Healthcare' is a high-demand industry in multiple states, it suggests that healthcare facilities in those areas are actively hiring to meet increasing demand.
-
-  Value for Job Seekers:
-
-    - The map can help job seekers align their career paths with regional industry needs, offering insights into areas with economic growth.
-
-  Limitation: 
-
-    - The map highlights broad industry demand rather than specific job titles or individual job openings.
     
    <br><br> <!-- Add two line breaks-->
   **3. What locations are hiring the most?** (Floris Cash)
@@ -121,18 +117,16 @@ The purpose of this project is to equip job seekers, industry professionals, and
   <img src="https://github.com/user-attachments/assets/0d1266e1-8dbb-461c-ac72-b606b5353877" alt="seb boxplot" width="700"/>
   <br><br> <!-- Add two line breaks after the images -->
  
- 2020 (Covid Years):
+  **2020 (Covid Years):**
+  - Executives and senior-level professionals earned more on average compared to previous years.
+  
+  **Mid-Level Professionals:**
+  - Average earnings have been steadily increasing each year from 2020 to 2024.
+  
+  **Entry-Level Professionals:**
+  - Average earnings have remained relatively stagnant over the years.
+  - There are larger outliers in 2023 and 2024, indicating occasional spikes in earnings for some individuals.
 
-    - Executives and senior-level professionals earned more on average compared to previous years.
-    
- Mid-Level Professionals:
-
-    - Average earnings have been steadily increasing each year from 2020 to 2024.
-
- Entry-Level Professionals:
-
-    - Average earnings have remained relatively stagnant over the years.
-    - There are larger outliers in 2023 and 2024, indicating occasional spikes in earnings for some individuals.
 
   <br><br> <!-- Add two line breaks-->
   **5. Does experience level influence job postings?** (Luc Atchley)
