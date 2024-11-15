@@ -188,6 +188,8 @@ Throughout the "Analysis of Job Market Trends in the United States" project, spe
   - [Interactive Graphing and Crossfiltering | Dash for Python](https://plotly.com/python/plotly-express/)
   - [Jupyter Widgets 8.1.1 Documentation > How-to Guides > Widget List](https://ipywidgets.readthedocs.io/en/8.1.2/examples/Widget%20List.html)
   - [Google Search AI Overview: tutorial adding multiple widgets to jupyter notebook plotly express graph](https://www.google.com/search?q=tutorial+adding+multiple+widgets+to+jupyter+notebook+plotly+express+graph&oq=tutorial+adding+multiple+widgets+to+jupyter+notebook+plotly+express+graph&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCjIwMDg5ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8)
-<br><br> <!-- Add two line breaks -->
-
-Utilized Xpert Learning Assistant and Chat GPT for assistance in coding and resolving errors.
+  - [HTML Basic Examples](https://www.w3schools.com/html/html_basic.asp)
+  - [Python Visualization - Github](https://python-visualization.github.io/folium/latest/getting_started.html)
+  - [Plotly Chart as a Popup in Folium Map](https://stackoverflow.com/questions/76310297/plotly-chart-as-a-popup-in-folium-map)
+  
+  Utilized Xpert Learning Assistant via Bootcamp Spot and Chat GPT for assistance in coding and resolving errors
