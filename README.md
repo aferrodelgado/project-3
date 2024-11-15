@@ -5,10 +5,8 @@
   - Project Members: Luc Atchley, Amanda Delgado, Sebastian Andreu, Floris Cash, Latifah Jones
 
 - **Datasets:**
-  - [1.3M Linkedin Jobs & Skills (2024)](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024?resource=download&select=linkedin_job_postings.csv)
   - [LinkedIn Job Postings (2023 - 2024)](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
   - [Data Science Job Postings & Skills (2024)](https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-skills?select=job_postings.csv)
-  - [17M+ Company Dataset](https://www.kaggle.com/datasets/mfrye0/bigpicture-company-dataset)
   - [BEA Interactive Data Application](https://apps.bea.gov/iTable/?reqid=19&step=2&isuri=1&1921=survey&_gl=1*txxocr*_ga*MTM5OTc3ODg0Ny4xNzMwNDIyMDU2*_ga_J4698JNNFT*MTczMDQyMjA1Ni4xLjEuMTczMDQyMjA2My41My4wLjA.#eyJhcHBpZCI6MTksInN0ZXBzIjpbMSwyLDNdLCJkYXRhIjpbWyJDYXRlZ29yaWVzIiwiU3VydmV5Il0sWyJOSVBBX1RhYmxlX0xpc3QiLCIxNzkiXV19)
   - [BEA Interactive Data Application](https://apps.bea.gov/iTable/?reqid=19&step=2&isuri=1&1921=survey&_gl=1*txxocr*_ga*MTM5OTc3ODg0Ny4xNzMwNDIyMDU2*_ga_J4698JNNFT*MTczMDQyMjA1Ni4xLjEuMTczMDQyMjA2My41My4wLjA.#eyJhcHBpZCI6MTksInN0ZXBzIjpbMSwyLDNdLCJkYXRhIjpbWyJDYXRlZ29yaWVzIiwiU3VydmV5Il0sWyJOSVBBX1RhYmxlX0xpc3QiLCIyMDEiXV19)
   - [Bureau of Labor Statistics - Employment Projections](https://data.bls.gov/projections/nationalMatrix?queryParams=00-0000&ioType=o)
@@ -101,14 +99,24 @@ The purpose of this project is to equip job seekers, industry professionals, and
     
    <br><br> <!-- Add two line breaks-->
   **3. What locations are hiring the most?** (Floris Cash)
-  >Analysis comes from .... dataset
+  >Analysis comes from LinkedIn Job Postings (2023 - 2024) dataset
 
-  >Visualizations come from .... .ipynb
+  >Visualizations come from Job_Skills_by_Location.ipynb
    <!-- Add a blank line to end the blockquote before inserting images -->
 
-  <img src="https://github.com/user-attachments/assets/7189c970-3824-43cd-80df-86241fe10caa" alt="Floris_Job Postings by State" width="600" height="400"/>
-   <br><br> <!-- Add two line breaks after the images -->
-  
+  <!-- First image -->
+<img src="https://github.com/user-attachments/assets/7189c970-3824-43cd-80df-86241fe10caa" alt="Floris_Job Postings by State" width="600" height="400"/>
+<br><br> <!-- Add two line breaks after the images -->
+
+<!-- Corrected second image -->
+<img src="https://github.com/user-attachments/assets/2489fbba-b875-4d31-8558-756be8f5cd00" alt="Floris_Choropleth_Map" width="600" height="400"/>
+<br><br> <!-- Add two line breaks after the images -->
+
+  - These maps show the top 25 states with the most job postings
+  - California and Texas leading heavily as the top two locations
+  - New York, Florida, and North Carolina rounding out the top five
+
+  <br><br> <!-- Add two line breaks-->
   **4. How do market trends compare over time?** (Sebastian Andreu)
   >Analysis comes from Exploring Salary Trends in Data Science Careers dataset
 
