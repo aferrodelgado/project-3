@@ -34,6 +34,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
      - Investigate how market trends in data science careers have evolved, comparing experience level and onsite versus remote work over time to identify emerging opportunities.
   
   5. What factors influence salary in todays job market?
+     -Examine key factors influencing salary, including experience, education, age, and race.
      
 <br><br> <!-- Add two line breaks -->
 - **Instructions: How to Use and Interact with Project:**
