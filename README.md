@@ -85,17 +85,11 @@ The purpose of this project is to equip job seekers, industry professionals, and
 
   <br><br> <!-- Add two line breaks after the images -->
   
-  **Industries in Demand:**
-  - Correspond to sectors experiencing growth or increased needs, leading to more job opportunities.
-  
-  **Example Insight:**
-  - If 'Healthcare' is a high-demand industry in multiple states, it suggests that healthcare facilities in those areas are actively hiring to meet increasing demand.
-  
-  **Value for Job Seekers:**
-  - The map can help job seekers align their career paths with regional industry needs, offering insights into areas with economic growth.
-  
-  **Limitation:**
-  - The map highlights broad industry demand rather than specific job titles or individual job openings.
+- The line chart illustrates projected employment growth from 2023 to 2033 for the top 10 fastest-growing industries in the U.S., providing a national overview of job demand trends.
+- Healthcare-related industries for the elderly are among the top growing industries, aligning with findings from the interactive map, which shows healthcare as a leading industry across multiple states.
+- Renewable energy sectors, such as solar and wind power generation, show steep growth projections, highlighting the increasing demand for clean energy jobs nationwide.
+- Beverage manufacturing and beverage/tobacco product manufacturing also appear in the top 10, showing consistent demand within the U.S. manufacturing sector.
+- Together with the map, this line chart provides both state-level and national perspectives on industry demand.
 
     
    <br><br> <!-- Add two line breaks-->
@@ -116,6 +110,7 @@ The purpose of this project is to equip job seekers, industry professionals, and
   - These maps show the top 25 states with the most job postings
   - California and Texas leading heavily as the top two locations
   - New York, Florida, and North Carolina rounding out the top five
+  - United States is a filler for Remote workers located anywhere in the US
 
   <br><br> <!-- Add two line breaks-->
   **4. How do market trends compare over time?** (Sebastian Andreu)
@@ -177,6 +172,13 @@ The purpose of this project is to equip job seekers, industry professionals, and
   - Workers with only a high school diploma earn around $30,000 annually, while those with a PhD earn over $100,000 on average.
   
 <br><br> <!-- Add two line breaks-->
+
+- **Analysis & Conclusion:**
+The demand for data science skills remains robust, particularly in tech-driven cities and growing industries.
+However, while mid-level and senior professionals are benefiting from increasing salaries and job opportunities, entry-level workers face challenges, with stagnant wages and limited access to high-paying roles. 
+While data science remains a promising field with growing opportunities, entry-level professionals may need to navigate a competitive landscape with careful consideration of education, skill development, and strategic positioning to maximize their career prospects.
+This project highlights the dynamic nature of the data science job market and the critical factors influencing career opportunities and compensation in today’s economy.
+
 
 - **Ethical Considerations:**
 Throughout the "Analysis of Job Market Trends in the United States" project, special attention has been given to ensure the ethical use of data and transparency in the analysis process. The project exclusively utilizes publicly available data sources and does not include any personally identifiable information. In presenting trends and insights, we avoid using biased interpretations to ensure our findings are accurate and impartial. The results of this analysis are shared in a manner that respects the diversity of industries and professions, without reinforcing harmful stereotypes or biases. Ethical principles of data integrity and fairness have been maintained to the expected standards.
