@@ -21,20 +21,27 @@ The "Analysis of Job Market Trends in the United States" project aims to explore
 - **Purpose & Objectives:**
 The purpose of this project is to equip job seekers, industry professionals, and businesses with actionable insights into the U.S. job market landscape. By leveraging data analytics, the project will address the following key questions:
 
-  1. What skills are in the highest demand for data science?
-     - Identify the top skills required by employers for data science roles, such as programming languages, machine learning techniques, and data visualization tools.
-    
-  2. Which industries are in most demand?
-     - Analyze which sectors are driving job growth and have the highest need, such as healthcare, finance, or technology.
-  
-  3. What locations are hiring the most?
-     - Pinpoint geographical areas with the highest concentration of job opportunities, highlighting major tech hubs and emerging markets.
-  
-  4. How do market trends compare over time?
-     - Investigate how market trends in data science careers have evolved, comparing experience level and onsite versus remote work over time to identify emerging opportunities.
-  
-  5. What factors influence salary in todays job market?
-     -Examine key factors influencing salary, including experience, education, age, and race.
+<br><br> <!-- Add two line breaks -->
+ # Analysis of Job Market Trends in Data Science
+
+This project explores the current trends and insights in the data science job market, focusing on the following key questions:
+
+1. What skills are in the highest demand for data science?
+    - Identify the top skills required by employers for data science roles, such as programming languages, machine learning techniques, and data visualization tools.
+
+2. Which industries are in most demand?
+    - Analyze which sectors are driving job growth and have the highest need, such as healthcare, finance, or technology.
+
+3. What locations are hiring the most?
+    - Pinpoint geographical areas with the highest concentration of job opportunities, highlighting major tech hubs and emerging markets.
+
+4. How do market trends compare over time?
+    - Investigate how market trends in data science careers have evolved, comparing experience level and onsite versus remote work over time to identify emerging opportunities.
+
+5. What factors influence salary in today's job market?
+    - Examine key factors influencing salary, including experience, education, age, and race.
+
+
      
 <br><br> <!-- Add two line breaks -->
 - **Instructions: How to Use and Interact with Project:**
